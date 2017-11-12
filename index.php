@@ -266,7 +266,7 @@
 				</div>
 				<div class="col-md-3 col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup" href="images/pictures/IMG_20171105_123524911_HDR.jpg"><img src="images/pictures/IMG_20171105_123524911_HDR.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
+						<a class="gallery-img image-popup" href="images/pictures/IMG_20171108_131833906_BURST001_HDR.jpg"><img src="images/pictures/IMG_20171108_131833906_BURST001_HDR.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
 					</div>
 					<div class="gallery animate-box">
 						<a class="gallery-img image-popup" href="images/pictures/IMG_20171106_210141390.jpg"><img src="images/pictures/IMG_20171106_210141390.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
@@ -278,9 +278,6 @@
 					</div>
 					<div class="gallery animate-box">
 						<a class="gallery-img image-popup" href="images/pictures/received_1711083275630560.jpg"><img src="images/pictures/received_1711083275630560.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
-					</div>
-					<div class="gallery animate-box">
-						<a class="gallery-img image-popup" href="images/pictures/IMG_20171108_131833906_BURST001_HDR.jpg"><img src="images/pictures/IMG_20171108_131833906_BURST001_HDR.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
 					</div>
 				</div>
 			</div>
