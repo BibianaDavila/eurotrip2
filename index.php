@@ -73,8 +73,8 @@
 					<div class="container">
 						<div class="col-md-10 col-md-offset-1">
 							<div class="animate-box svg-sm colored">
-								<!--<img src="images/flaticon/svg/004-nature.svg" class="svg" alt="Free HTML5 Bootstrap Template by QBootstrap.com">-->
-								<h1 class="holder"><span>The International People's College</span></h1>
+								<!--<img src="images/flaticon/svg/004-nature.svg" class="svg" alt="">-->
+								<h1 class="holder"><span>THE INTERNATIONAL PEOPLE'S COLLEGE</span></h1>
 								<h2>autumn eurotrip</h2>
 								<p>30.10.2017 - 10.11.2017</p>
 							</div>
@@ -103,9 +103,9 @@
 						<h3>Louie Jie L. Mahusay</h3>
 						<span>Groom</span>
 					</div>
-					<div class="col-md-2 col-sm-2 col-xs-2 nopadding"><h2 class="amp-center"><img src="images/flaticon/svg/003-luxury.svg" class="svg img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></h2></div>
+					<div class="col-md-2 col-sm-2 col-xs-2 nopadding"><h2 class="amp-center"><img src="images/flaticon/svg/003-luxury.svg" class="svg img-responsive" alt=""></h2></div>
 					<div class="col-md-5 col-sm-5 col-xs-5 nopadding">
-						<img src="images/bride.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com">
+						<img src="images/bride.jpg" class="img-responsive" alt="">
 						<h3>Marializa R. Tabay</h3>
 						<span>Bride</span>
 					</div>
@@ -138,7 +138,7 @@
 			<div class="row">
 				<div class="col-md-6">
 					<div class="couple groom text-center animate-box">
-						<img src="images/petr.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com">
+						<img src="images/petr.jpg" class="img-responsive" alt="">
 						<div class="desc">
 							<h2>Petr Konvičný</h2>
 						</div>
@@ -146,7 +146,7 @@
 				</div>
 				<div class="col-md-6">
 					<div class="couple bride text-center animate-box">
-						<img src="images/angel.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com">
+						<img src="images/angel.jpg" class="img-responsive" alt="">
 						<div class="desc">
 							<h2>Angel L. Vidal</h2>
 						</div>
@@ -203,7 +203,7 @@
 									<span class="date">November 2, 2017</span>
 								</div>
 								<div class="timeline-body">
-									<p>In Prague, we visited the Kampa Museum and walked around the Old City. We visited the Castle and went to the Black Light Theater too.</p>
+									<p>In Prague, we visited the Kampa Museum and walked around the Old City. We visited the Castle and went to the Black Light Theater too. <a href="prague.php">Read more.</a></p>
 								</div>
 							</div>
 						</li>
@@ -231,7 +231,7 @@
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2">
 					<div class="col-md-12 text-center section-heading svg-sm colored">
-						<img src="images/flaticon/svg/camera.jpg" class="svg" alt="Free HTML5 Bootstrap Template by QBootstrap.com">
+						<img src="images/flaticon/svg/camera.jpg" class="svg" alt="">
 						<h2>Photos</h2>
 						<div class="row">
 						<div class="col-md-10 col-md-offset-1 subtext">
@@ -246,37 +246,37 @@
 			<div class="row">
 				<div class="col-md-3 col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/pictures/aaron.jpg"><img src="images/pictures/aaron.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
+						<a class="gallery-img image-popup image-popup" href="images/pictures/aaron.jpg"><img src="images/pictures/aaron.jpg" class="img-responsive" alt=""></a>
 					</div>
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup" href="images/pictures/dinnerkrakow.jpg"><img src="images/pictures/dinnerkrakow.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6">
-					<div class="gallery animate-box">
-						<a class="gallery-img image-popup" href="images/pictures/everyonekrakow.jpg"><img src="images/pictures/everyonekrakow.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
-					</div>
-					<div class="gallery animate-box">
-						<a class="gallery-img image-popup" href="images/pictures/praguecameras.jpg"><img src="images/pictures/praguecameras.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
-					</div>
-					<div class="gallery animate-box">
-						<a class="gallery-img image-popup" href="images/pictures/pragueselfie.jpg"><img src="images/pictures/pragueselfie.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
+						<a class="gallery-img image-popup" href="images/pictures/dinnerkrakow.jpg"><img src="images/pictures/dinnerkrakow.jpg" class="img-responsive" alt=""></a>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup" href="images/pictures/IMG_20171108_131833906_BURST001_HDR.jpg"><img src="images/pictures/IMG_20171108_131833906_BURST001_HDR.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
+						<a class="gallery-img image-popup" href="images/pictures/everyonekrakow.jpg"><img src="images/pictures/everyonekrakow.jpg" class="img-responsive" alt=""></a>
 					</div>
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup" href="images/pictures/IMG_20171106_210141390.jpg"><img src="images/pictures/IMG_20171106_210141390.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
+						<a class="gallery-img image-popup" href="images/pictures/praguecameras.jpg"><img src="images/pictures/praguecameras.jpg" class="img-responsive" alt=""></a>
+					</div>
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup" href="images/pictures/pragueselfie.jpg"><img src="images/pictures/pragueselfie.jpg" class="img-responsive" alt=""></a>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup" href="images/pictures/IMG_20171107_102935166.jpg"><img src="images/pictures/IMG_20171107_102935166.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
+						<a class="gallery-img image-popup" href="images/pictures/IMG_20171108_131833906_BURST001_HDR.jpg"><img src="images/pictures/IMG_20171108_131833906_BURST001_HDR.jpg" class="img-responsive" alt=""></a>
 					</div>
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup" href="images/pictures/received_1711083275630560.jpg"><img src="images/pictures/received_1711083275630560.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
+						<a class="gallery-img image-popup" href="images/pictures/IMG_20171106_210141390.jpg"><img src="images/pictures/IMG_20171106_210141390.jpg" class="img-responsive" alt=""></a>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup" href="images/pictures/IMG_20171107_102935166.jpg"><img src="images/pictures/IMG_20171107_102935166.jpg" class="img-responsive" alt=""></a>
+					</div>
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup" href="images/pictures/received_1711083275630560.jpg"><img src="images/pictures/received_1711083275630560.jpg" class="img-responsive" alt=""></a>
 					</div>
 				</div>
 			</div>
