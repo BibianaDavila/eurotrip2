@@ -258,7 +258,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .section-heading.svg-sm .svg {
   height: 180px;
-  margin-bottom: -80px;
+  margin-bottom: -50px;
   padding: 0;
 }
 .section-heading.colored .svg {

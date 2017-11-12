@@ -233,6 +233,7 @@
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2">
 					<div class="col-md-12 text-center section-heading svg-sm colored">
+						<img src="images/flaticon/svg/camera.jpg" class="svg" alt="Free HTML5 Bootstrap Template by QBootstrap.com">
 						<h2>Photos</h2>
 						<div class="row">
 						<div class="col-md-10 col-md-offset-1 subtext">
