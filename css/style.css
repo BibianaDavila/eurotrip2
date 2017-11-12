@@ -74,10 +74,16 @@ h1, h2, h3, h4, h5, h6 {
 .hidden-mobile{
   display: show !important;
 }
-.show-mobile{
+.show-mobile, .hidden-desktop{
   display: none !important;
 }
 @media screen and (max-width: 768px) {
+  .show-widemobile{
+    display: block !important;
+  }
+  .hidden-mobile{
+    display: none !important;
+  }
   #qbootstrap-header {
     margin-top: 0;
     background: #fff;
@@ -304,7 +310,7 @@ h1, h2, h3, h4, h5, h6 {
   .show-mobile{
     display: block !important;
   }
-  .hidden-mobile{
+  .show-widemobile{
     display: none !important;
   }
   #qbootstrap-couple,

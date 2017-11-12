@@ -119,6 +119,9 @@
 	<div id="qbootstrap-countdown" class="hidden-mobile" style="background-image: url(images/map.jpg);" data-section="wedding-day">
 		<div class="qbootstrap-cover text-center"></div>
 	</div>
+	<div id="qbootstrap-countdown" class="hidden-desktop show-widemobile" style="background-image: url(images/mapwidemobile.jpg);" data-section="wedding-day">
+		<div class="qbootstrap-cover text-center"></div>
+	</div>
 	<div id="qbootstrap-countdown" class="show-mobile" style="background-image: url(images/mapmobile.jpg);" data-section="wedding-day">
 		<div class="qbootstrap-cover text-center"></div>
 	</div>
