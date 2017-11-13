@@ -76,7 +76,7 @@
 						<div class="col-md-10 col-md-offset-1">
 							<div class="animate-box svg-sm colored">
 								<!--<img src="images/flaticon/svg/004-nature.svg" class="svg" alt="Free HTML5 Bootstrap Template by QBootstrap.com">-->
-								<h1 class="holder"><span>autumn eurotrip</span></h1>
+								<h1 class="holder"><span><a href="index.php" class="clean">autumn eurotrip</a></span></h1>
 								<h2>PRAGUE</h2>
 								<p>02.10.2017 - 06.11.2017</p>
 							</div>
@@ -94,16 +94,23 @@
 					<div class="col-md-12 text-center section-heading svg-sm colored">
 						<img src="images/flaticon/svg/city.jpg" class="svg">
 						<h2>Prague, Czech Republic</h2>
-						<p><strong>Founded in the 6th Century, Prague is the capital city of Czech Republic and also the historical capital of Bohemia. </strong></p>
+						<p><strong>Founded in the 6th Century, Prague is the capital city of Czech Republic and also the historical capital of Bohemia. It is a popular destination  to tourists, having receive more than 6.05 million foreigners visitors in 2016.</strong></p>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 	
-	<div id="qbootstrap-countdown" style="background-image: url(images/mapprague.jpg);" data-section="wedding-day">
+	<div id="qbootstrap-countdown" class="hidden-mobile" style="background-image: url(images/mapprague.jpg);" data-section="wedding-day">
 		<div class="qbootstrap-cover text-center"></div>
 	</div>
+	<div id="qbootstrap-countdown" class="hidden-desktop show-widemobile" style="background-image: url(images/mappraguewidemobile.jpg);" data-section="wedding-day">
+		<div class="qbootstrap-cover text-center"></div>
+	</div>
+	<div id="qbootstrap-countdown" class="show-mobile" style="background-image: url(images/mappraguemobile.jpg);" data-section="wedding-day">
+		<div class="qbootstrap-cover text-center"></div>
+	</div>
+
 
 	<div id="qbootstrap-story" data-section="story">
 		<div class="container">
@@ -118,7 +125,7 @@
 									<h3 class="timeline-title">Prague Castle</h3>
 								</div>
 								<div class="timeline-body">
-									<p>It is the official office of the President of the Czech Republic. The castle was a seat of power for kings of Bohemia, Holy Roman emperors, and presidents of Czechoslovakia. It dates to the 9th century.</p>
+									<p><b>It is the official office of the President of the Czech Republic. The castle was a seat of power for kings of Bohemia, Holy Roman emperors, and presidents of Czechoslovakia. It dates to the 9th century.</b></p>
 								</div>
 							</div>
 						</li>
@@ -130,11 +137,55 @@
 									<h3 class="timeline-title">Charles Bridge</h3>
 								</div>
 								<div class="timeline-body">
-									<p></p>
+									<p><b>One of the most visited places in Prague, the Charles Bridge is the oldest one in the city - it was completed in 1402. It is called Charles Bridge since 1870, because of Charles IV, who started the project in 1357.</b></p>
 								</div>
 							</div>
 						</li>
 			    	</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="qbootstrap-testimonials" class="qbootstrap-greetings" data-section="greetings" data-stellar-background-ratio="0.5">
+	
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-12 section-heading text-center svg-sm colored">
+					<!--<img src="images/flaticon/svg/006-flower-bell-outline-design-variant-with-vines-and-leaves.svg" class="svg" alt="Free HTML5 Bootstrap Template by QBootstrap.com">-->
+					<h2 class="">Our Thoughts</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4 animate-box">
+					<div class="box-testimony ">
+						<blockquote>
+							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
+							<p><b>Prague is a beautiful city with a lot of different architecture styles and you can find a lot of good street artists. One of the best places, for me, was the tower - where you can see the whole city. </b></p>
+						</blockquote>
+						<p class="author">Eleonore Delhaise, from Belgium</p>
+					</div>
+					
+				</div>
+				<div class="col-md-4 animate-box">
+					<div class="box-testimony ">
+						<blockquote>
+							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
+							<p><b>Prague is one of the few cities where not only the centrum is beautiful, but the whole city is amazing and the people are very elegant. Everything is pretty and they have a very nice night life, with good prices. Very pretty population, too!</b></p>
+						</blockquote>
+						<p class="author">Santiago Guerrero, from Mexico</p>
+					</div>
+					
+					
+				</div>
+				<div class="col-md-4 animate-box">
+					<div class="box-testimony ">
+						<blockquote>
+							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
+							<p><b>Prague is very beautiful city because there are lots of beautiful buildings. Different colors and styles preserved. It was especially good to walk at night seeing the national theater and castle across the river. I like the city because its also cheap, but I was so sorry for citizens who live there since there was so many tourists.</b></p>
+						</blockquote>
+						<p class="author">Hyun Jin, South Korea</p>
+					</div>					
 				</div>
 			</div>
 		</div>

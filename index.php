@@ -137,18 +137,18 @@
 			</div>
 			<div class="row">
 				<div class="col-md-6">
-					<div class="couple groom text-center animate-box">
-						<img src="images/petr.jpg" class="img-responsive" alt="">
-						<div class="desc">
-							<h2>Petr Konvičný</h2>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-6">
 					<div class="couple bride text-center animate-box">
 						<img src="images/angel.jpg" class="img-responsive" alt="">
 						<div class="desc">
 							<h2>Angel L. Vidal</h2>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="couple groom text-center animate-box">
+						<img src="images/petr.jpg" class="img-responsive" alt="">
+						<div class="desc">
+							<h2>Petr Konvičný</h2>
 						</div>
 					</div>
 				</div>
@@ -190,7 +190,7 @@
 									<span class="date">October 31, 2017</span>
 								</div>
 								<div class="timeline-body">
-									<p>We walked through the city and went to the Wawel Castle. Also during our stay at Poland, we went to the Auschwitz-Birkenau Memorial and Museum.</p>
+									<p>We walked through the city and went to the Wawel Castle. Also during our stay at Poland, we went to the Auschwitz-Birkenau Memorial and Museum. <a href="krakow.php">Read more.</a></p>
 								</div>
 							</div>
 						</li>
@@ -216,7 +216,7 @@
 									<span class="date">November 06, 2017</span>
 								</div>
 								<div class="timeline-body">
-									<p>In Berlin we visited the Wall Memorial and the East Side Gallery. We passed by the Charlie Checkpoint, the Brandenburg Gate and the Reichstag. We also went to the Historical Museum of Germany, Topography of Terror and Holocaust Memorial.</p>
+									<p>In Berlin we visited the Wall Memorial and the East Side Gallery. We passed by the Charlie Checkpoint, the Brandenburg Gate and the Reichstag. We also went to the Historical Museum of Germany, Topography of Terror and Holocaust Memorial. <a href="berlin.php">Read more.</a></p>
 								</div>
 							</div>
 						</li>
