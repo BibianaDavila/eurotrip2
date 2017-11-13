@@ -251,7 +251,26 @@
 				</div>
 				<div class="col-sm-6">
 					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/pictures/23316309_10213775264838898_2470055049004603819_n.jpg"><img src="images/pictures/23316309_10213775264838898_2470055049004603819_n.jpg" class="img-responsive" alt=""></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-4 col-sm-6">
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/pictures/23244456_10213743662608862_7908232159076774908_n.jpg"><img src="images/pictures/23244456_10213743662608862_7908232159076774908_n.jpg" class="img-responsive" alt=""></a>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6">
+					<div class="gallery animate-box">
 						<a class="gallery-img image-popup image-popup" href="images/pictures/berlin.jpg"><img src="images/pictures/berlin.jpg" class="img-responsive" alt=""></a>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6">
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/pictures/23316669_10213758873629128_8851582097249369821_n.jpg"><img src="images/pictures/23316669_10213758873629128_8851582097249369821_n.jpg" class="img-responsive" alt=""></a>
 					</div>
 				</div>
 			</div>
