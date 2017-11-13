@@ -244,6 +244,20 @@
 		</div>
 		<div class="container-fluid">
 			<div class="row">
+				<div class="col-sm-6">
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/pictures/23434716_10213791761411302_1702057755221957557_n.jpg"><img src="images/pictures/23434716_10213791761411302_1702057755221957557_n.jpg" class="img-responsive" alt=""></a>
+					</div>
+				</div>
+				<div class="col-sm-6">
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/pictures/berlin.jpg"><img src="images/pictures/berlin.jpg" class="img-responsive" alt=""></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container-fluid">
+			<div class="row">
 				<div class="col-md-3 col-sm-6">
 					<div class="gallery animate-box">
 						<a class="gallery-img image-popup image-popup" href="images/pictures/aaron.jpg"><img src="images/pictures/aaron.jpg" class="img-responsive" alt=""></a>
