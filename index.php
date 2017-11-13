@@ -282,6 +282,31 @@
 		</div>
 		<div class="container-fluid">
 			<div class="row">
+				<div class="col-md-3 col-sm-6">
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/pictures/23032365_10213724499529797_1098943016381850552_n.jpg"><img src="images/pictures/23032365_10213724499529797_1098943016381850552_n.jpg" class="img-responsive" alt=""></a>
+					</div>
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/pictures/23032892_10213730029108033_9029245572079878313_n.jpg"><img src="images/pictures/23032892_10213730029108033_9029245572079878313_n.jpg" class="img-responsive" alt=""></a>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/pictures/23031365_10213729956266212_1332206156407600488_n.jpg"><img src="images/pictures/23031365_10213729956266212_1332206156407600488_n.jpg" class="img-responsive" alt=""></a>
+					</div>
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/pictures/23316577_1975893856019136_8508521914567260128_n.jpg"><img src="images/pictures/23316577_1975893856019136_8508521914567260128_n.jpg" class="img-responsive" alt=""></a>
+					</div>
+				</div>
+				<div class="col-sm-6">
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/pictures/23131811_10213724081959358_6988134739466191110_n.jpg"><img src="images/pictures/23131811_10213724081959358_6988134739466191110_n.jpg" class="img-responsive" alt=""></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container-fluid">
+			<div class="row">
 				<div class="col-sm-6">
 					<div class="gallery animate-box">
 						<a class="gallery-img image-popup image-popup" href="images/pictures/23434716_10213791761411302_1702057755221957557_n.jpg"><img src="images/pictures/23434716_10213791761411302_1702057755221957557_n.jpg" class="img-responsive" alt=""></a>
