@@ -33,6 +33,7 @@ a {
 a:hover, a:active, a:focus {
   color: #de4229;
   outline: none;
+  text-decoration: none !important;
 }
 
 p {
