@@ -119,6 +119,23 @@
 		</div>
 		<div class="container-fluid">
 			<div class="row">
+				<div class="col-md-4 col-sm-6">
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/krakow/13.jpg"><img src="images/krakow/13.jpg" class="img-responsive"></a>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6">
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/krakow/14.jpg"><img src="images/krakow/14.jpg" class="img-responsive"></a>
+					</div>		
+				</div>
+				<div class="col-md-4 col-sm-6">
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/krakow/15.jpg"><img src="images/krakow/15.jpg" class="img-responsive"></a>
+					</div>		
+				</div>
+			</div>
+			<div class="row">
 				<div class="col-sm-6">
 					<div class="gallery animate-box">
 						<a class="gallery-img image-popup image-popup" href="images/krakow/8.jpg"><img src="images/krakow/8.jpg" class="img-responsive"></a>
@@ -162,6 +179,23 @@
 					<div class="gallery animate-box">
 						<a class="gallery-img image-popup image-popup" href="images/krakow/9.jpg"><img src="images/krakow/9.jpg" class="img-responsive"></a>
 					</div>				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4 col-sm-6">
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/krakow/16.jpg"><img src="images/krakow/16.jpg" class="img-responsive"></a>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-6">
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/krakow/17.jpg"><img src="images/krakow/17.jpg" class="img-responsive"></a>
+					</div>		
+				</div>
+				<div class="col-md-4 col-sm-6">
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/krakow/18.jpg"><img src="images/krakow/18.jpg" class="img-responsive"></a>
+					</div>		
+				</div>
 			</div>
 		</div>
 	</div>

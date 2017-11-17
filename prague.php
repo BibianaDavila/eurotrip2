@@ -141,6 +141,18 @@
 								</div>
 							</div>
 						</li>
+						<li class="animate-box">
+							<div class="timeline-badge" style="background-image:url(images/prague/46.jpg);"></div>
+							<div class="timeline-panel">
+								<div class="overlay overlay"></div>
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Vaclav Havel Square</h3>
+								</div>
+								<div class="timeline-body">
+									<p><b>Between the buildings of the National Theatre in Prague, this heart-shaped monument by artist Kurt Gebauer is a homage to Václav Havel, the first president of Czech Republic, who used to draw a little heart next to his signature.</b></p>
+								</div>
+							</div>
+						</li>
 			    	</ul>
 				</div>
 			</div>
