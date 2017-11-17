@@ -94,7 +94,42 @@
 					<div class="col-md-12 text-center section-heading svg-sm colored">
 						<img src="images/flaticon/svg/city.jpg" class="svg">
 						<h2>Kraków, Poland</h2>
-						<p><strong></strong></p>
+						<p><strong>Kraków is the second largest and one of the oldest cities in Poland. It has always been an important city in the nation and it was the central site of the Nazi General Government during WWII.</strong></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="qbootstrap-countdown" class="hidden-mobile" style="background-image: url(images/mapkrakow.jpg);" data-section="wedding-day">
+		<div class="qbootstrap-cover text-center"></div>
+	</div>
+
+	<div id="qbootstrap-testimonials" class="qbootstrap-greetings" data-section="greetings" data-stellar-background-ratio="0.5">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-12 section-heading text-center svg-sm colored">
+					<!--<img src="images/flaticon/svg/006-flower-bell-outline-design-variant-with-vines-and-leaves.svg" class="svg" alt="">-->
+					<h2 class="">Our Thoughts</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6 animate-box">
+					<div class="box-testimony ">
+						<blockquote>
+							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
+							<p><b>Well, Poland look exactly like I imagined: poor, old and sort of like in all the nazi/war movies that we watched in school. But Kraków is a very beautiful city, it doesn`t look like the rest of the country. In some parts, however, you can see the city still has the traces of communist regimes. The river is also nice, water is always good in a city.</b></p>
+						</blockquote>
+						<p class="author">Paula Maria Rieß, from Germany.</p>
+					</div>
+					
+				</div>
+				<div class="col-md-6 animate-box">
+					<div class="box-testimony ">
+						<blockquote>
+							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
+							<p><b>I had a great time in Kraków. The breakfast was the best cause they have pancakes! </b></p>
+						</blockquote>
+						<p class="author">Rebecca Argus, from Brazil.</p>
 					</div>
 				</div>
 			</div>
@@ -195,6 +230,16 @@
 					<div class="gallery animate-box">
 						<a class="gallery-img image-popup image-popup" href="images/krakow/18.jpg"><img src="images/krakow/18.jpg" class="img-responsive"></a>
 					</div>		
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="qbootstrap-testimonials" class="qbootstrap-greetings" data-section="greetings" data-stellar-background-ratio="0.5">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-12 section-heading text-center svg-sm colored">
+					<a href="index.php#qbootstrap-story"><h2 class=""><i class="icon-arrow-left-circle"></i> GO BACK!</h2></a>
 				</div>
 			</div>
 		</div>
