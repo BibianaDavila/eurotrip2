@@ -175,9 +175,27 @@
 				</div>
 				<div class="col-md-6 text-center animate-box">
 					<div class="wedding-events">
+						<div class="ceremony-bg" style="background-image: url(images/prague/47.jpg);"></div>
+						<div class="desc">
+							<h3>Prague National Theatre</h3>
+							<p><b>The National Theatre is used to Opera, Drama and Ballet perfomances. The historical building was constructed in 1883 and it is considered the most important stage in Czech Republic. </b></p>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="date">
+										<i class="icon-directions"></i>
+										<span><b>Národní 2, 110 00 Nové Město</b></span>
+									</div>
+								</div>
+							</div>
+							<p><a href="https://goo.gl/maps/MGJ9We5SyZ52" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+						</div>
+					</div>					
+				</div>
+				<div class="col-md-6 text-center animate-box">
+					<div class="wedding-events">
 						<div class="ceremony-bg" style="background-image: url(images/prague/46.jpg);"></div>
 						<div class="desc">
-							<h3>Vaclav Havel Square</h3>
+							<h3>Václav Havel Square</h3>
 							<p><b>Between the buildings of the National Theatre in Prague, this heart-shaped monument by artist Kurt Gebauer is a homage to Václav Havel, the first president of Czech Republic, who used to draw a little heart next to his signature.</b></p>
 							<div class="row">
 								<div class="col-md-12">
@@ -192,7 +210,27 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-6 text-center animate-box">
+			</div>
+			<div class="row">
+				<div class="col-md-4 text-center animate-box">
+					<div class="wedding-events">
+						<div class="ceremony-bg" style="background-image: url(images/prague/50.jpg);"></div>
+						<div class="desc">
+							<h3>Museum Kampa</h3>
+							<p><b>Opened since 2003, this is a museum of modern European Art Located on the banks of Kampa Island. The pieces are from the private collection of Meda Mládek, wife of Jan V. Mládek. </b></p>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="date">
+										<i class="icon-directions"></i>
+										<span><b>U Sovových mlýnů 2, 118 00 Malá Strana</b></span>
+									</div>
+								</div>
+							</div>
+							<p><a href="https://goo.gl/maps/MGJ9We5SyZ52" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+						</div>
+					</div>					
+				</div>
+				<div class="col-md-4 text-center animate-box">
 					<div class="wedding-events">
 						<div class="ceremony-bg" style="background-image: url(images/prague/48.jpg);"></div>
 						<div class="desc">
@@ -210,9 +248,7 @@
 						</div>
 					</div>					
 				</div>
-			</div>
-			<div class="row row-bottom-padded-md">
-				<div class="col-md-6 text-center animate-box">
+				<div class="col-md-4 text-center animate-box">
 					<div class="wedding-events">
 						<div id="videoDiv" style="background-color: #5a5e61"> 
 							<div id="videoBlock">   
@@ -224,7 +260,7 @@
 						</div>
 						<div class="desc">
 							<h3>Statue of Franz Kafka</h3>
-							<p><b></b></p>
+							<p><b>This is the sculpture of Franz Kafka's head, made by the Czech artist David Cerny. It's the combination of 42 independently driven layers of stainless steel and weighs about 45 tons.</b></p>
 							<div class="row">
 								<div class="col-md-12">
 									<div class="date">
