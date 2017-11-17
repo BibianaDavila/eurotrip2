@@ -75,7 +75,7 @@
 					<div class="container">
 						<div class="col-md-10 col-md-offset-1">
 							<div class="animate-box svg-sm colored">
-								<!--<img src="images/flaticon/svg/004-nature.svg" class="svg" alt="Free HTML5 Bootstrap Template by QBootstrap.com">-->
+								<!--<img src="images/flaticon/svg/004-nature.svg" class="svg" alt="">-->
 								<h1 class="holder"><span><a href="index.php" class="clean">autumn eurotrip</a></span></h1>
 								<h2>PRAGUE</h2>
 								<p>02.10.2017 - 06.11.2017</p>
@@ -142,14 +142,14 @@
 							</div>
 						</li>
 						<li class="animate-box">
-							<div class="timeline-badge" style="background-image:url(images/prague/46.jpg);"></div>
+							<div class="timeline-badge" style="background-image:url(images/prague/49.jpg);"></div>
 							<div class="timeline-panel">
 								<div class="overlay overlay"></div>
 								<div class="timeline-heading">
-									<h3 class="timeline-title">Vaclav Havel Square</h3>
+									<h3 class="timeline-title">Old Town Square</h3>
 								</div>
 								<div class="timeline-body">
-									<p><b>Between the buildings of the National Theatre in Prague, this heart-shaped monument by artist Kurt Gebauer is a homage to Václav Havel, the first president of Czech Republic, who used to draw a little heart next to his signature.</b></p>
+									<p><b>Another favourite point to tourists, the Old Town Square was founded in the 12th century and it is dominated by the Baroque Church of St Nicholas, the Rococo Kinský Palace, the Gothic House at the Stone Bell, the monument to Jan Hus, the Old Town Hall and the Church of Our Lady before Týn.</b></p>
 								</div>
 							</div>
 						</li>
@@ -159,12 +159,101 @@
 		</div>
 	</div>
 
+	<div id="qbootstrap-when-where" data-section="when-where">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2">
+					<div class="col-md-12 text-center section-heading svg-sm colored">
+						<img src="images/flaticon/svg/museum.png" class="svg" alt="">
+						<h2>Art & Museums</h2>
+						<div class="row">
+						<div class="col-md-10 col-md-offset-1 subtext">
+							<h3></h3>
+						</div>
+					</div>
+					</div>
+				</div>
+				<div class="col-md-6 text-center animate-box">
+					<div class="wedding-events">
+						<div class="ceremony-bg" style="background-image: url(images/prague/46.jpg);"></div>
+						<div class="desc">
+							<h3>Vaclav Havel Square</h3>
+							<p><b>Between the buildings of the National Theatre in Prague, this heart-shaped monument by artist Kurt Gebauer is a homage to Václav Havel, the first president of Czech Republic, who used to draw a little heart next to his signature.</b></p>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="date">
+										<i class="icon-directions"></i>
+										<span><b>Náměstí Václava Havla, 110 00 Nové Město</b></span>
+									</div>
+								</div>
+							</div>
+							<p><a href="https://goo.gl/maps/GiLSVY89pRy" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 text-center animate-box">
+					<div class="wedding-events">
+						<div class="ceremony-bg" style="background-image: url(images/prague/48.jpg);"></div>
+						<div class="desc">
+							<h3>John Lennon Wall</h3>
+							<p><b>This wall stands as a symbol for free speech and youth rebellion against the authoritarian communist regime in Czech, that prohibited (among many other things) western pop songs. John Lennon was praised because of his lyrics that defended freedom and peace, exactly what young czechs were looking for. Many times the state tried to erase the paintings on the wall, but people would just keep repainting it again.</b></p>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="date">
+										<i class="icon-directions"></i>
+										<span><b>Velkopřevorské náměstí, Malá Strana, 100 00 Praha 1</b></span>
+									</div>
+								</div>
+							</div>
+							<p><a href="https://goo.gl/maps/BRbPjMetYxH2" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+						</div>
+					</div>					
+				</div>
+			</div>
+			<div class="row row-bottom-padded-md">
+				<div class="col-md-6 text-center animate-box">
+					<div class="wedding-events">
+						<div id="videoDiv" style="background-color: #5a5e61"> 
+							<div id="videoBlock">   
+								<video preload="preload"  id="video" autoplay="autoplay" loop="loop" controls muted>
+									<source src="video/t12.webm" type="video/webm"></source>
+									<source src="video/kafka.mp4" type="video/mp4"></source>
+								</video> 
+							</div>
+						</div>
+						<div class="desc">
+							<h3>Statue of Franz Kafka</h3>
+							<p><b></b></p>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="date">
+										<i class="icon-directions"></i>
+										<span><b>Spálená 22, 110 00 Praha 1-New Town-Nové Město</b></span>
+									</div>
+								</div>
+							</div>
+							<p><a href="https://goo.gl/maps/185djzUDerJ2" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<div id="map" class="qbootstrap-map"></div>
+				</div>
+			</div>
+		</div>
+		</div>
+	</div>
+
 	<div id="qbootstrap-testimonials" class="qbootstrap-greetings" data-section="greetings" data-stellar-background-ratio="0.5">
 	
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-12 section-heading text-center svg-sm colored">
-					<!--<img src="images/flaticon/svg/006-flower-bell-outline-design-variant-with-vines-and-leaves.svg" class="svg" alt="Free HTML5 Bootstrap Template by QBootstrap.com">-->
+					<!--<img src="images/flaticon/svg/006-flower-bell-outline-design-variant-with-vines-and-leaves.svg" class="svg" alt="">-->
 					<h2 class="">Our Thoughts</h2>
 				</div>
 			</div>
@@ -223,47 +312,47 @@
 			<div class="row">
 				<div class="col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/prague/44.jpg"><img src="images/prague/44.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
+						<a class="gallery-img image-popup image-popup" href="images/prague/44.jpg"><img src="images/prague/44.jpg" class="img-responsive" alt=""></a>
 					</div>
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/prague/16.jpg"><img src="images/prague/16.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
+						<a class="gallery-img image-popup image-popup" href="images/prague/16.jpg"><img src="images/prague/16.jpg" class="img-responsive" alt=""></a>
 					</div>
 				</div>
 				<div class="col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/prague/14.jpg"><img src="images/prague/14.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
+						<a class="gallery-img image-popup image-popup" href="images/prague/14.jpg"><img src="images/prague/14.jpg" class="img-responsive" alt=""></a>
 					</div>
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/prague/36.jpg"><img src="images/prague/36.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
+						<a class="gallery-img image-popup image-popup" href="images/prague/36.jpg"><img src="images/prague/36.jpg" class="img-responsive" alt=""></a>
 					</div>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/prague/1.jpg"><img src="images/prague/1.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
+						<a class="gallery-img image-popup image-popup" href="images/prague/1.jpg"><img src="images/prague/1.jpg" class="img-responsive" alt=""></a>
 					</div>
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/prague/21.jpg"><img src="images/prague/21.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
+						<a class="gallery-img image-popup image-popup" href="images/prague/21.jpg"><img src="images/prague/21.jpg" class="img-responsive" alt=""></a>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
 					
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/prague/35.jpg"><img src="images/prague/35.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
+						<a class="gallery-img image-popup image-popup" href="images/prague/35.jpg"><img src="images/prague/35.jpg" class="img-responsive" alt=""></a>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/prague/33.jpg"><img src="images/prague/33.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
+						<a class="gallery-img image-popup image-popup" href="images/prague/33.jpg"><img src="images/prague/33.jpg" class="img-responsive" alt=""></a>
 					</div>
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/prague/28.jpg"><img src="images/prague/28.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
+						<a class="gallery-img image-popup image-popup" href="images/prague/28.jpg"><img src="images/prague/28.jpg" class="img-responsive" alt=""></a>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/prague/20.jpg"><img src="images/prague/20.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by QBootstrap.com"></a>
+						<a class="gallery-img image-popup image-popup" href="images/prague/20.jpg"><img src="images/prague/20.jpg" class="img-responsive" alt=""></a>
 					</div>
 				</div>
 			</div>
