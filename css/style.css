@@ -80,13 +80,13 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 20px;
 }
 .hidden-mobile{
-  display: show !important;
+  display: block !important;
 }
 .show-mobile, .hidden-desktop{
   display: none !important;
 }
 @media screen and (max-width: 768px) {
-  .show-widemobile{
+  .show-mobile{
     display: block !important;
   }
   .hidden-mobile{
@@ -260,12 +260,12 @@ h1, h2, h3, h4, h5, h6 {
   clear: both;
 }
 .section-heading.svg-sm-2 .svg {
-  height: 150px;
+  max-height: 150px;
   margin-bottom: 0;
   padding: 0;
 }
 .section-heading.svg-sm .svg {
-  height: 180px;
+  max-height: 180px;
   margin-bottom: -50px;
   padding: 0;
 }
@@ -317,9 +317,6 @@ h1, h2, h3, h4, h5, h6 {
 @media screen and (max-width: 480px) {
   .show-mobile{
     display: block !important;
-  }
-  .show-widemobile{
-    display: none !important;
   }
   #qbootstrap-couple,
   #qbootstrap-countdown,

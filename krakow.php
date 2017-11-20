@@ -104,6 +104,53 @@
 		<div class="qbootstrap-cover text-center"></div>
 	</div>
 
+	<div id="qbootstrap-story" data-section="story">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<ul class="timeline animate-box">
+						<li class="animate-box">
+							<div class="timeline-badge" style="background-image:url(images/praguecastle.jpg);"></div>
+							<div class="timeline-panel">
+								<div class="overlay"></div>
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Prague Castle</h3>
+								</div>
+								<div class="timeline-body">
+									<p><b>It is the official office of the President of the Czech Republic. The castle was a seat of power for kings of Bohemia, Holy Roman emperors, and presidents of Czechoslovakia. It dates to the 9th century.</b></p>
+								</div>
+							</div>
+						</li>
+						<li class="timeline-inverted animate-box">
+							<div class="timeline-badge" style="background-image:url(images/praguebridge.jpg);"></div>
+							<div class="timeline-panel">
+								<div class="overlay overlay-2"></div>
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Charles Bridge</h3>
+								</div>
+								<div class="timeline-body">
+									<p><b>One of the most visited places in Prague, the Charles Bridge is the oldest one in the city - it was completed in 1402. It is called Charles Bridge since 1870, because of Charles IV, who started the project in 1357.</b></p>
+								</div>
+							</div>
+						</li>
+						<li class="animate-box">
+							<div class="timeline-badge" style="background-image:url(images/prague/49.jpg);"></div>
+							<div class="timeline-panel">
+								<div class="overlay overlay"></div>
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Old Town Square</h3>
+								</div>
+								<div class="timeline-body">
+									<p><b>Another favourite point to tourists, the Old Town Square was founded in the 12th century and it is dominated by the Baroque Church of St Nicholas, the Rococo Kinský Palace, the Gothic House at the Stone Bell, the monument to Jan Hus, the Old Town Hall and the Church of Our Lady before Týn.</b></p>
+								</div>
+							</div>
+						</li>
+			    	</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
 	<div id="qbootstrap-testimonials" class="qbootstrap-greetings" data-section="greetings" data-stellar-background-ratio="0.5">
 		<div class="container">
 			<div class="row animate-box">

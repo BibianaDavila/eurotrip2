@@ -163,14 +163,16 @@
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2">
-					<div class="col-md-12 text-center section-heading svg-sm colored">
-						<img src="images/flaticon/svg/museum.png" class="svg" alt="">
-						<h2>Art & Museums</h2>
-						<div class="row">
-						<div class="col-md-10 col-md-offset-1 subtext">
-							<h3></h3>
+					<div class="row">
+						<div class="col-md-12 text-center section-heading svg-sm colored">
+							<img src="images/flaticon/svg/museum.png" class="svg" alt="">
+							<h2>Art & Museums</h2>
+							<div class="row">
+								<div class="col-md-10 col-md-offset-1 subtext">
+									<h3></h3>
+								</div>
+							</div>
 						</div>
-					</div>
 					</div>
 				</div>
 				<div class="col-md-6 text-center animate-box">
