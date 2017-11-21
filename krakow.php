@@ -197,7 +197,7 @@
 						<div class="ceremony-bg" style="background-image: url(images/krakow/aushwitz/1.jpg);"></div>
 						<div class="desc">
 							<h3>Auschwitz-Birkenau Memorial and Museum</h3>
-							<p><b>The former German Nazi Concentration and Extermination Camp is preserved since 1947 as a Memorial and Museum dedicated to show the history of the systematic murder of more than 1.1 million people during the World War II, with the main objective being to prevent that something similar ever happens again. The memorial is separeted in two parts, Auschwitz and Birkenau, and the guides help the visitors to full understand the history of this place. <br/> The camp is located in the city of Oświęcim, one hour away from Cracow.</b></p>
+							<p><b>The former German Nazi Concentration and Extermination Camp is preserved since 1947 as a Memorial and Museum dedicated to the history of the systematic murder of more than 1.1 million people during the World War II, with the main objective being the prevention of something similar ever happening again. The memorial is separeted in two parts, Auschwitz and Birkenau, and the guides help the visitors to fully understand the history of this place. <br/> The camp is located in the city of Oświęcim, one hour away from Cracow.</b></p>
 							<div class="row">
 								<div class="col-md-12">
 									<div class="date">
