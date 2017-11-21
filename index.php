@@ -187,7 +187,7 @@
 									<span class="date">November 2, 2017</span>
 								</div>
 								<div class="timeline-body">
-									<p>In Prague, we visited the Kampa Museum and walked around the Old City. We visited the Castle and went to the Black Light Theater too. <a href="prague.php">Read more.</a></p>
+									<p>In Prague, we visited the Kampa Museum and walked around the Old Town. We visited the Prague Castle and went to the Black Light Theater, too. <a href="prague.php">Read more.</a></p>
 								</div>
 							</div>
 						</li>
@@ -200,7 +200,7 @@
 									<span class="date">November 06, 2017</span>
 								</div>
 								<div class="timeline-body">
-									<p>In Berlin we visited the Wall Memorial and the East Side Gallery. We passed by the Charlie Checkpoint, the Brandenburg Gate and the Reichstag. We also went to the Historical Museum of Germany, Topography of Terror and Holocaust Memorial. <a href="berlin.php">Read more.</a></p>
+									<p>In Berlin we visited the Berlin Wall Memorial and the East Side Gallery. We passed by  Checkpoint Charlie, the Brandenburg Gate and the Reichstag. We also went to the Historical Museum of Germany, Topography of Terror and Holocaust Memorial. <a href="berlin.php">Read more.</a></p>
 								</div>
 							</div>
 						</li>
