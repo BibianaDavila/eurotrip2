@@ -94,7 +94,7 @@
 					<div class="col-md-12 text-center section-heading svg-sm colored">
 						<img src="images/flaticon/svg/city.jpg" class="svg">
 						<h2>Prague, Czech Republic</h2>
-						<p><strong>Founded in the 6th Century, Prague is the capital city of Czech Republic and also the historical capital of Bohemia. It is a popular destination  to tourists, having receive more than 6.05 million foreigners visitors in 2016.</strong></p>
+						<p><strong>Founded in the 6th Century, Prague is the capital city of the Czech Republic and also the historical capital of Bohemia. It is a popular destination  to tourists, having receive more than 6.05 million foreigners visitors in 2016.</strong></p>
 					</div>
 				</div>
 			</div>
