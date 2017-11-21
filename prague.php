@@ -283,7 +283,7 @@
 						</div>
 						<div class="desc">
 							<h3>Architecture</h3>
-							<p><b>Ideas and opinions about Prague architecture by the view of some tourists.</b></p>
+							<p><b>Ideas and opinions about Prague architecture from the point of view of tourists.</b></p>
 						</div>
 					</div>
 				</div>
