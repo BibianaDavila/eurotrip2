@@ -92,7 +92,7 @@
 					<div class="col-md-12 text-center section-heading svg-sm colored">
 						<img src="images/flaticon/svg/city.jpg" class="svg">
 						<h2>Three Cities, Twelve Days</h2>
-						<p><strong>After one day of preparation at IPC, we left on the October 31st from Copenhagen to Kraków. After that, we went from Poland to Czech Republic, to the city of Prague. Our last stop was Berlin, the capital city of Germany.</strong></p>
+						<p><strong>After one day of preparation at IPC, we left on October 31st from Copenhagen to Kraków. After that, we went from Poland to Czech Republic, to the city of Prague. Our last stop was Berlin, the capital city of Germany.</strong></p>
 					</div>
 				</div>
 			</div>
