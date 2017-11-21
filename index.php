@@ -166,7 +166,7 @@
 							</div>
 						</li>
 						<li class="timeline-inverted animate-box">
-							<div class="timeline-badge" style="background-image:url(images/krakow.jpg);"></div>
+							<div class="timeline-badge" style="background-image:url(images/cracow.jpg);"></div>
 							<div class="timeline-panel">
 								<div class="overlay overlay-2"></div>
 								<div class="timeline-heading">
@@ -174,7 +174,7 @@
 									<span class="date">October 31, 2017</span>
 								</div>
 								<div class="timeline-body">
-									<p>We walked through the city and went to the Wawel Castle. Also during our stay in Poland, we went to the Auschwitz-Birkenau Memorial and Museum. <a href="krakow.php">Read more.</a></p>
+									<p>We walked through the city and went to the Wawel Castle. Also during our stay in Poland, we went to the Auschwitz-Birkenau Memorial and Museum. <a href="cracow.php">Read more.</a></p>
 								</div>
 							</div>
 						</li>
@@ -310,12 +310,12 @@
 						<a class="gallery-img image-popup image-popup" href="images/pictures/aaron.jpg"><img src="images/pictures/aaron.jpg" class="img-responsive" alt=""></a>
 					</div>
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup" href="images/pictures/dinnerkrakow.jpg"><img src="images/pictures/dinnerkrakow.jpg" class="img-responsive" alt=""></a>
+						<a class="gallery-img image-popup" href="images/pictures/dinnercracow.jpg"><img src="images/pictures/dinnercracow.jpg" class="img-responsive" alt=""></a>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup" href="images/pictures/everyonekrakow.jpg"><img src="images/pictures/everyonekrakow.jpg" class="img-responsive" alt=""></a>
+						<a class="gallery-img image-popup" href="images/pictures/everyonecracow.jpg"><img src="images/pictures/everyonecracow.jpg" class="img-responsive" alt=""></a>
 					</div>
 					<div class="gallery animate-box">
 						<a class="gallery-img image-popup" href="images/pictures/praguecameras.jpg"><img src="images/pictures/praguecameras.jpg" class="img-responsive" alt=""></a>

@@ -69,7 +69,7 @@
 	<body>	
 	<div class="qbootstrap-hero" data-section="home">
 		<div class="qbootstrap-overlay"></div>
-		<div class="qbootstrap-cover text-center" style="background-image: url(images/krakowbg.jpg);">
+		<div class="qbootstrap-cover text-center" style="background-image: url(images/cracowbg.jpg);">
 			<div class="display-t">
 				<div class="display-tc">
 					<div class="container">
@@ -100,12 +100,12 @@
 			</div>
 		</div>
 	</div>
-	<div id="qbootstrap-countdown" class="hidden-mobile" style="background-image: url(images/mapkrakow.jpg);" data-section="wedding-day">
+	<div id="qbootstrap-countdown" class="hidden-mobile" style="background-image: url(images/mapcracow.jpg);" data-section="wedding-day">
 		<div class="qbootstrap-cover text-center"></div>
 	</div>
 	<div class="hidden-desktop show-mobile" data-section="wedding-day">
 		<div class="text-center">
-			<img src="images/mapkrakowmobile.jpg" style="max-width:100%"/>
+			<img src="images/mapcracowmobile.jpg" style="max-width:100%"/>
 		</div>
 	</div>
 
@@ -115,7 +115,7 @@
 				<div class="col-md-12">
 					<ul class="timeline animate-box">
 						<li class="animate-box">
-							<div class="timeline-badge" style="background-image:url(images/krakow/19.jpg);"></div>
+							<div class="timeline-badge" style="background-image:url(images/cracow/19.jpg);"></div>
 							<div class="timeline-panel">
 								<div class="overlay"></div>
 								<div class="timeline-heading">
@@ -127,7 +127,7 @@
 							</div>
 						</li>
 						<li class="timeline-inverted animate-box">
-							<div class="timeline-badge" style="background-image:url(images/krakow/1.jpg);"></div>
+							<div class="timeline-badge" style="background-image:url(images/cracow/1.jpg);"></div>
 							<div class="timeline-panel">
 								<div class="overlay overlay-2"></div>
 								<div class="timeline-heading">
@@ -194,7 +194,7 @@
 				</div>
 				<div class="col-md-12 text-center animate-box">
 					<div class="wedding-events">
-						<div class="ceremony-bg" style="background-image: url(images/krakow/aushwitz/1.jpg);"></div>
+						<div class="ceremony-bg" style="background-image: url(images/cracow/aushwitz/1.jpg);"></div>
 						<div class="desc">
 							<h3>Auschwitz-Birkenau Memorial and Museum</h3>
 							<p><b>The former German Nazi Concentration and Extermination Camp is preserved since 1947 as a Memorial and Museum dedicated to the history of the systematic murder of more than 1.1 million people during the World War II, with the main objective being the prevention of something similar ever happening again. The memorial is separeted in two parts, Auschwitz and Birkenau, and the guides help the visitors to fully understand the history of this place. <br/> The camp is located in the city of Oświęcim, one hour away from Cracow.</b></p>
@@ -215,8 +215,8 @@
 						<div id="videoDiv" style="background-color: #5a5e61"> 
 							<div id="videoBlock">   
 								<video preload="preload"  id="video" autoplay="autoplay" loop="loop" controls muted width="100%" style="max-height:400px">
-									<source src="video/musickrakow.webm" type="video/webm"></source>
-									<source src="video/musickrakow.mp4" type="video/mp4"></source>
+									<source src="video/musiccracow.webm" type="video/webm"></source>
+									<source src="video/musiccracow.mp4" type="video/mp4"></source>
 								</video> 
 							</div>
 						</div>
@@ -250,79 +250,79 @@
 			<div class="row">
 				<div class="col-md-4 col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/krakow/13.jpg"><img src="images/krakow/13.jpg" class="img-responsive"></a>
+						<a class="gallery-img image-popup image-popup" href="images/cracow/13.jpg"><img src="images/cracow/13.jpg" class="img-responsive"></a>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/krakow/14.jpg"><img src="images/krakow/14.jpg" class="img-responsive"></a>
+						<a class="gallery-img image-popup image-popup" href="images/cracow/14.jpg"><img src="images/cracow/14.jpg" class="img-responsive"></a>
 					</div>		
 				</div>
 				<div class="col-md-4 col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/krakow/15.jpg"><img src="images/krakow/15.jpg" class="img-responsive"></a>
+						<a class="gallery-img image-popup image-popup" href="images/cracow/15.jpg"><img src="images/cracow/15.jpg" class="img-responsive"></a>
 					</div>		
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/krakow/8.jpg"><img src="images/krakow/8.jpg" class="img-responsive"></a>
+						<a class="gallery-img image-popup image-popup" href="images/cracow/8.jpg"><img src="images/cracow/8.jpg" class="img-responsive"></a>
 					</div>
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/krakow/4.jpg"><img src="images/krakow/4.jpg" class="img-responsive"></a>
+						<a class="gallery-img image-popup image-popup" href="images/cracow/4.jpg"><img src="images/cracow/4.jpg" class="img-responsive"></a>
 					</div>
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/krakow/11.jpg"><img src="images/krakow/11.jpg" class="img-responsive"></a>
+						<a class="gallery-img image-popup image-popup" href="images/cracow/11.jpg"><img src="images/cracow/11.jpg" class="img-responsive"></a>
 					</div>
 				</div>
 				<div class="col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/krakow/1.jpg"><img src="images/krakow/1.jpg" class="img-responsive"></a>
+						<a class="gallery-img image-popup image-popup" href="images/cracow/1.jpg"><img src="images/cracow/1.jpg" class="img-responsive"></a>
 					</div>
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/krakow/22.jpg"><img src="images/krakow/22.jpg" class="img-responsive"></a>
+						<a class="gallery-img image-popup image-popup" href="images/cracow/22.jpg"><img src="images/cracow/22.jpg" class="img-responsive"></a>
 					</div>					
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/krakow/6.jpg"><img src="images/krakow/6.jpg" class="img-responsive"></a>
+						<a class="gallery-img image-popup image-popup" href="images/cracow/6.jpg"><img src="images/cracow/6.jpg" class="img-responsive"></a>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/krakow/2.jpg"><img src="images/krakow/2.jpg" class="img-responsive"></a>
+						<a class="gallery-img image-popup image-popup" href="images/cracow/2.jpg"><img src="images/cracow/2.jpg" class="img-responsive"></a>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/krakow/7.jpg"><img src="images/krakow/7.jpg" class="img-responsive"></a>
+						<a class="gallery-img image-popup image-popup" href="images/cracow/7.jpg"><img src="images/cracow/7.jpg" class="img-responsive"></a>
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/krakow/5.jpg"><img src="images/krakow/5.jpg" class="img-responsive"></a>
+						<a class="gallery-img image-popup image-popup" href="images/cracow/5.jpg"><img src="images/cracow/5.jpg" class="img-responsive"></a>
 					</div>
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/krakow/9.jpg"><img src="images/krakow/9.jpg" class="img-responsive"></a>
+						<a class="gallery-img image-popup image-popup" href="images/cracow/9.jpg"><img src="images/cracow/9.jpg" class="img-responsive"></a>
 					</div>				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-4 col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/krakow/16.jpg"><img src="images/krakow/16.jpg" class="img-responsive"></a>
+						<a class="gallery-img image-popup image-popup" href="images/cracow/16.jpg"><img src="images/cracow/16.jpg" class="img-responsive"></a>
 					</div>
 				</div>
 				<div class="col-md-4 col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/krakow/17.jpg"><img src="images/krakow/17.jpg" class="img-responsive"></a>
+						<a class="gallery-img image-popup image-popup" href="images/cracow/17.jpg"><img src="images/cracow/17.jpg" class="img-responsive"></a>
 					</div>		
 				</div>
 				<div class="col-md-4 col-sm-6">
 					<div class="gallery animate-box">
-						<a class="gallery-img image-popup image-popup" href="images/krakow/18.jpg"><img src="images/krakow/18.jpg" class="img-responsive"></a>
+						<a class="gallery-img image-popup image-popup" href="images/cracow/18.jpg"><img src="images/cracow/18.jpg" class="img-responsive"></a>
 					</div>		
 				</div>
 			</div>
