@@ -326,7 +326,7 @@
 					<div class="box-testimony ">
 						<blockquote>
 							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
-							<p><b>Prague is very beautiful city because there are lots of beautiful buildings. Different colors and styles preserved. It was especially good to walk at night seeing the national theater and castle across the river. I like the city because its also cheap, but I was so sorry for citizens who live there since there was so many tourists.</b></p>
+							<p><b>Prague is a very beautiful city because there are lots of beautiful buildings. Different colors and styles preserved. It was especially good to walk at night seeing the National Theater and the Castle across the river. I like the city because it's also cheap, but I was so sorry for citizens who live there since there were so many tourists.</b></p>
 						</blockquote>
 						<p class="author">Hyun Jin, South Korea</p>
 					</div>					
