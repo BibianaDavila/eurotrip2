@@ -123,7 +123,7 @@
 									<h3 class="timeline-title">Brandenburg Gate</h3>
 								</div>
 								<div class="timeline-body">
-									<p><b>The Brandenburg Gate is one of the most famous monuments in Berlin. It was build over two hundred years ago, but it had to be reconstructed during the 90s, due to the damages it had suffer during the WWII. Since then, it has been seen as a symbol for the reunification of Germany.</b></p>
+									<p><b>The Brandenburg Gate is one of the most famous monuments in Berlin. It was built over two hundred years ago, but it had to be reconstructed during the 90s, due to the damages it had suffered during the WWII. Since then, it has been seen as a symbol of the reunification of Germany.</b></p>
 								</div>
 							</div>
 						</li>
@@ -135,7 +135,7 @@
 									<h3 class="timeline-title">Reichstag</h3>
 								</div>
 								<div class="timeline-body">
-									<p><b>The Reichstag was first build in 1894, during the Germany Empire, designed by Paul Wallot. As most of the buildings in Berlin, it was partially destroy during the WWII and it was reconstructed after the reunification of Germany.</b></p>
+									<p><b>The Reichstag was first built in 1894, during the German Empire, designed by Paul Wallot. As most of the buildings in Berlin, it was partially destroyed during the WWII and it was reconstructed after the reunification of Germany.</b></p>
 								</div>
 							</div>
 						</li>
@@ -147,7 +147,7 @@
 									<h3 class="timeline-title">Alexanderplatz</h3>
 								</div>
 								<div class="timeline-body">
-									<p><b>Alexanderplatz is one of the most famous landmarks in Berlin. It was first build in the 19th century, but also had to be reconstructed after the WWII. The square accommodates the World Time Clock and it is a transportation hub.</b></p>
+									<p><b>Alexanderplatz is one of the most famous landmarks in Berlin. It was first built in the 19th century, but also had to be reconstructed after the WWII. The square accommodates the World Time Clock and it is a transportation hub.</b></p>
 								</div>
 							</div>
 						</li>
@@ -159,7 +159,7 @@
 									<h3 class="timeline-title">Checkpoint Charlie</h3>
 								</div>
 								<div class="timeline-body">
-									<p><b>This was the best-known crossing point between East Berlin and West Berlin during the Cold War, after the borders were closed with the Wall.</b></p>
+									<p><b>This was the best-known crossing point between East Berlin and West Berlin during the Cold War, after the borders were closed by the Berlin Wall.</b></p>
 								</div>
 							</div>
 						</li>
@@ -171,7 +171,7 @@
 									<h3 class="timeline-title">Olympiastadion</h3>
 								</div>
 								<div class="timeline-body">
-									<p><b>Berlin's Olympiastadion was built for the 1936 Olympic Games by the Nazi government at the time. It was, however, renovated to the 2006 World Football Cup, hosted by Germany. Nowdays, it is the home stadium to Hertha BSC club.</b></p>
+									<p><b>Berlin's Olympiastadion was built for the 1936 Olympic Games by the Nazi government at the time. It was, however, renovated for the 2006 World Cup in Football, hosted by Germany. Nowadays, it is the home stadium to Hertha BSC, popular club from Berlin.</b></p>
 								</div>
 							</div>
 						</li>
@@ -202,7 +202,7 @@
 						<div class="ceremony-bg" style="background-image: url(images/berlin/30.jpg);"></div>
 						<div class="desc">
 							<h3>Berlin Wall Memorial</h3>
-							<p><b>This is a memorial to the wall that was built during the division of Germany, isolation the West Berlin from the rest of the Deutsche Demokratische Republik (DDR). Inside the memorial, the "Window of Memorial" portrays the 130 people who were shot or died trying to cross the wall.</b></p>
+							<p><b>This is a memorial to the wall that was built during the division of Germany, isolationing the West Berlin from the rest of the Deutsche Demokratische Republik (DDR). Inside the site, the "Window of Memorial" portrays the 130 people who were shot or died trying to cross the wall.</b></p>
 							<div class="row">
 								<div class="col-md-12">
 									<div class="date">
@@ -220,7 +220,7 @@
 						<div class="ceremony-bg" style="background-image: url(images/berlin/32.jpg);"></div>
 						<div class="desc">
 							<h3>East Side Gallery</h3>
-							<p><b>Over one kilometre long, the East Side Gallery is constitueted of a part of the Berlin Wall that was preserved. It has paintings all over it by artists from all around the world. The gallery is considered a protected memorial of Germany since 1990, right after the reunification began.</b></p>
+							<p><b>Over one kilometre long, the East Side Gallery is constituted of a part of the Berlin Wall that was preserved. It has paintings all over it by artists from all around the world. The gallery is considered a protected memorial of Germany since 1990, right after the reunification began.</b></p>
 							<div class="row">
 								<div class="col-md-12">
 									<div class="date">
@@ -238,7 +238,7 @@
 						<div class="ceremony-bg" style="background-image: url(images/berlin/29.jpg);"></div>
 						<div class="desc">
 							<h3>Museum Island</h3>
-							<p><b>This island in the center of Berlin brings together five world-renowned museums: Pergamonmuseum (Pergamon Museum), Bode-Museum, Neues Museum (New Museum), Alte Nationalgalerie (Old National Gallery) and Altes Museum (Old Museum). The Museum Island is a UNESCO World Heritage Site since 1999.</b></p>
+							<p><b>This island in the center of Berlin brings together five world-renowned museums: Pergamonmuseum (Pergamon Museum), Bode-Museum, Neues Museum (New Museum), Alte Nationalgalerie (Old National Gallery) and Altes Museum (Old Museum). The Museum Island has been a UNESCO World Heritage Site since 1999.</b></p>
 							<div class="row">
 								<div class="col-md-12">
 									<div class="date">
@@ -258,7 +258,7 @@
 						<div class="ceremony-bg" style="background-image: url(images/berlin/33.jpg);"></div>
 						<div class="desc">
 							<h3>Memorial to the Murdered Jews of Europe</h3>
-							<p><b>Also known as the Holocaust Memorial, this space was designed by Peter Eisenman and opened in 2005. The memorial has an unique atmosphere, creating feelings of lost, confusion and loneliness in the people that walk through it. More than 6 million jews were killed in the Holocaust.</b></p>
+							<p><b>Also known as the Holocaust Memorial, this space was designed by Peter Eisenman and opened in 2005. The memorial has a unique atmosphere, creating feelings of being lost, confusion and loneliness in the people that walk through it. More than 6 million Jews were killed during the Holocaust.</b></p>
 							<div class="row">
 								<div class="col-md-12">
 									<div class="date">
@@ -276,7 +276,7 @@
 						<div class="ceremony-bg" style="background-image: url(images/berlin/34.jpg);"></div>
 						<div class="desc">
 							<h3>Jewish Museum Berlin</h3>
-							<p><b>The Jewish Museum Berlin, opened since 2001, it's dedicated to the two millenia history of jews and about their lifes in Germany. It's permanent exhibition starts in the first chapters of jewish history and goes until the life of jews in Germany after WWII.</b></p>
+							<p><b>The Jewish Museum Berlin, opened since 2001, is dedicated to the two millenia history of Jews and to their lives in Germany. Its permanent exhibition starts in the first chapters of Jewish history and goes on until the life of Jews in Germany after WWII.</b></p>
 							<div class="row">
 								<div class="col-md-12">
 									<div class="date">
@@ -306,9 +306,9 @@
 					<div class="box-testimony ">
 						<blockquote>
 							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
-							<p><b>My thoughts about Berlin: Its easy to know when you are in the East! Public transportation is great, the metro goes everywehre. The Donner is good, and cheap! Food is delicious and super affordable. Beer is 2 Euro. </b></p>
+							<p><b>My thoughts about Berlin: It's easy to know when you are in the East! Public transportation is great, the metro goes everywhere. The döner is good, and cheap! Food is delicious and super affordable. Beer is 2 Euro. </b></p>
 						</blockquote>
-						<p class="author">Marc Siegel, from Mexico</p>
+						<p class="author">Marc Siegel, Mexico</p>
 					</div>
 					
 				</div>
@@ -318,7 +318,7 @@
 							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
 							<p><b>I personally loved Berlin and would have no problem living there. The art in the city was my most favorite part, every time you leave your home you have inspiration. </b></p>
 						</blockquote>
-						<p class="author">Lucy Nagle, from USA</p>
+						<p class="author">Lucy Nagle, USA</p>
 					</div>
 					
 					
