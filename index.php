@@ -95,22 +95,7 @@
 						<p><strong>After one day of preparation at IPC, we left on the October 31st from Copenhagen to Kraków. After that, we went from Poland to Czech Republic, to the city of Prague. Our last stop was Berlin, the capital city of Germany.</strong></p>
 					</div>
 				</div>
-			</div><!--
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center">
-					<div class="col-md-5 col-sm-5 col-xs-5 nopadding">
-						<img src="images/groom.jpg" class="img-responsive">
-						<h3>Louie Jie L. Mahusay</h3>
-						<span>Groom</span>
-					</div>
-					<div class="col-md-2 col-sm-2 col-xs-2 nopadding"><h2 class="amp-center"><img src="images/flaticon/svg/003-luxury.svg" class="svg img-responsive" alt=""></h2></div>
-					<div class="col-md-5 col-sm-5 col-xs-5 nopadding">
-						<img src="images/bride.jpg" class="img-responsive" alt="">
-						<h3>Marializa R. Tabay</h3>
-						<span>Bride</span>
-					</div>
-				</div>
-			</div>-->
+			</div>
 		</div>
 	</div>
 	

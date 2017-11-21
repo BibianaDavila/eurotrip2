@@ -94,8 +94,76 @@
 					<div class="col-md-12 text-center section-heading svg-sm colored">
 						<img src="images/flaticon/svg/city.jpg" class="svg">
 						<h2>Berlin, Germany</h2>
-						<p><strong></strong></p>
+						<p><strong>Berlin is a city that remember its own history: it is full of monuments and memorials related to the World War II, the separation of the city that followed the war and, finally, its reunification in the 90s.</strong></p>
 					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="qbootstrap-countdown" class="hidden-mobile" style="background-image: url(images/mapberlin.jpg);" data-section="wedding-day">
+		<div class="qbootstrap-cover text-center"></div>
+	</div>
+	<div class="hidden-desktop show-mobile" data-section="wedding-day">
+		<div class="text-center">
+			<img src="images/mapberlinmobile.jpg" style="max-width:100%"/>
+		</div>
+	</div>
+
+	<div id="qbootstrap-story" data-section="story">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<ul class="timeline animate-box">
+						<li class="animate-box">
+							<div class="timeline-badge" style="background-image:url(images/berlin.jpg);"></div>
+							<div class="timeline-panel">
+								<div class="overlay"></div>
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Brandenburg Gate</h3>
+								</div>
+								<div class="timeline-body">
+									<p><b>The Brandenburg Gate is one of the most famous monuments in Berlin. It was build over two hundred years ago, but it had to be reconstructed during the 90s, due to the damages it had suffer during the WWII. Since then, it has been seen as a symbol for the reunification of Germany.</b></p>
+								</div>
+							</div>
+						</li>
+						<li class="timeline-inverted animate-box">
+							<div class="timeline-badge" style="background-image:url(images/berlin/26.jpg);"></div>
+							<div class="timeline-panel">
+								<div class="overlay overlay-2"></div>
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Reichstag</h3>
+								</div>
+								<div class="timeline-body">
+									<p><b>The Reichstag was first build in 1894, during the Germany Empire, designed by Paul Wallot. As most of the buildings in Berlin, it was partially destroy during the WWII and it was reconstructed after the reunification of Germany.</b></p>
+								</div>
+							</div>
+						</li>
+						<li class="animate-box">
+							<div class="timeline-badge" style="background-image:url(images/berlin/27.jpg);"></div>
+							<div class="timeline-panel">
+								<div class="overlay"></div>
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Alexanderplatz</h3>
+								</div>
+								<div class="timeline-body">
+									<p><b>Alexanderplatz is one of the most famous landmarks in Berlin. It was first build in the 19th century, but also had to be reconstructed after the WWII. The square accommodates the World Time Clock and it is a transportation hub.</b></p>
+								</div>
+							</div>
+						</li>
+						<li class="timeline-inverted animate-box">
+							<div class="timeline-badge" style="background-image:url(images/berlin/28.jpg);"></div>
+							<div class="timeline-panel">
+								<div class="overlay overlay-2"></div>
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Olympiastadion</h3>
+								</div>
+								<div class="timeline-body">
+									<p><b>Berlin's Olympiastadion was built for the 1936 Olympic Games by the Nazi government at the time. It was, however, renovated to the 2006 World Football Cup, hosted by Germany. Nowdays, it is the home stadium to Hertha BSC club.</b></p>
+								</div>
+							</div>
+						</li>
+			    	</ul>
 				</div>
 			</div>
 		</div>
