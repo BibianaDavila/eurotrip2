@@ -235,7 +235,7 @@
 						<div class="ceremony-bg" style="background-image: url(images/prague/48.jpg);"></div>
 						<div class="desc">
 							<h3>John Lennon Wall</h3>
-							<p><b>This wall stands as a symbol for free speech and youth rebellion against the authoritarian communist regime in Czech, that prohibited (among many other things) western pop songs. John Lennon was praised because of his lyrics that defended freedom and peace, exactly what young czechs were looking for. Many times the state tried to erase the paintings on the wall, but people would just keep repainting it again.</b></p>
+							<p><b>This wall stands as a symbol for free speech and youth rebellion against the authoritarian communist regime in Czechoslovakia that prohibited (among many other things) western pop songs. John Lennon was praised because of his lyrics that defended freedom and peace, exactly what young Czechs were looking for. Many times the state tried to erase the paintings on the wall, but people would just keep repainting it again.</b></p>
 							<div class="row">
 								<div class="col-md-12">
 									<div class="date">
