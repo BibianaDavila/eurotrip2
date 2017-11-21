@@ -94,7 +94,7 @@
 					<div class="col-md-12 text-center section-heading svg-sm colored">
 						<img src="images/flaticon/svg/city.jpg" class="svg">
 						<h2>Prague, Czech Republic</h2>
-						<p><strong>Founded in the 6th Century, Prague is the capital city of the Czech Republic and also the historical capital of Bohemia. It is a popular destination  to tourists, having receive more than 6.05 million foreigners visitors in 2016.</strong></p>
+						<p><strong>Founded in the 6th Century, Prague is the capital city of the Czech Republic and also the historical capital of Bohemia. It is a popular destination for tourists, having received more than 6.05 million foreign visitors in 2016.</strong></p>
 					</div>
 				</div>
 			</div>
@@ -135,7 +135,7 @@
 									<h3 class="timeline-title">Charles Bridge</h3>
 								</div>
 								<div class="timeline-body">
-									<p><b>One of the most visited places in Prague, the Charles Bridge is the oldest one in the city - it was completed in 1402. It is called Charles Bridge since 1870, because of Charles IV, who started the project in 1357.</b></p>
+									<p><b>One of the most visited places in Prague, the Charles Bridge is the oldest one in the city - it was completed in 1402. It has been called Charles Bridge since 1870 because of Charles IV, who started the project in 1357.</b></p>
 								</div>
 							</div>
 						</li>
@@ -147,7 +147,7 @@
 									<h3 class="timeline-title">Old Town Square</h3>
 								</div>
 								<div class="timeline-body">
-									<p><b>Another favourite point to tourists, the Old Town Square was founded in the 12th century and it is dominated by the Baroque Church of St Nicholas, the Rococo Kinský Palace, the Gothic House at the Stone Bell, the monument to Jan Hus, the Old Town Hall and the Church of Our Lady before Týn.</b></p>
+									<p><b>Another favourite point for tourists, the Old Town Square was founded in the 12th century and it is dominated by the Baroque Church of St Nicholas, the Rococo Kinský Palace, the Gothic House at the Stone Bell, the monument of Jan Hus, the Old Town Hall and the Church of Our Lady before Týn.</b></p>
 								</div>
 							</div>
 						</li>
@@ -178,7 +178,7 @@
 						<div class="ceremony-bg" style="background-image: url(images/prague/47.jpg);"></div>
 						<div class="desc">
 							<h3>Prague National Theatre</h3>
-							<p><b>The National Theatre is used to Opera, Drama and Ballet perfomances. The historical building was constructed in 1883 and it is considered the most important stage in Czech Republic. </b></p>
+							<p><b>The National Theatre is used for Opera, Drama and Ballet perfomances. The historical building was constructed in 1883 and it is considered the most important stage in the Czech Republic. </b></p>
 							<div class="row">
 								<div class="col-md-12">
 									<div class="date">
@@ -187,7 +187,7 @@
 									</div>
 								</div>
 							</div>
-							<p><a href="https://goo.gl/maps/MGJ9We5SyZ52" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+							<p><a href="https://goo.gl/maps/MGJ9We5SyZ52" target="_blank" class="btn btn-primary btn-sm">Open in Maps</a></p>
 						</div>
 					</div>					
 				</div>
@@ -196,7 +196,7 @@
 						<div class="ceremony-bg" style="background-image: url(images/prague/46.jpg);"></div>
 						<div class="desc">
 							<h3>Václav Havel Square</h3>
-							<p><b>Between the buildings of the National Theatre in Prague, this heart-shaped monument by artist Kurt Gebauer is a homage to Václav Havel, the first president of Czech Republic, who used to draw a little heart next to his signature.</b></p>
+							<p><b>Between the buildings of the National Theatre in Prague, this heart-shaped monument by artist Kurt Gebauer is a homage to Václav Havel, the first president of the Czech Republic, who used to draw a little heart next to his signature.</b></p>
 							<div class="row">
 								<div class="col-md-12">
 									<div class="date">
@@ -205,7 +205,7 @@
 									</div>
 								</div>
 							</div>
-							<p><a href="https://goo.gl/maps/GiLSVY89pRy" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+							<p><a href="https://goo.gl/maps/GiLSVY89pRy" target="_blank" class="btn btn-primary btn-sm">Open in Maps</a></p>
 
 						</div>
 					</div>
@@ -226,7 +226,7 @@
 									</div>
 								</div>
 							</div>
-							<p><a href="https://goo.gl/maps/MGJ9We5SyZ52" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+							<p><a href="https://goo.gl/maps/MGJ9We5SyZ52" target="_blank" class="btn btn-primary btn-sm">Open in Maps</a></p>
 						</div>
 					</div>					
 				</div>
@@ -244,7 +244,7 @@
 									</div>
 								</div>
 							</div>
-							<p><a href="https://goo.gl/maps/BRbPjMetYxH2" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+							<p><a href="https://goo.gl/maps/BRbPjMetYxH2" target="_blank" class="btn btn-primary btn-sm">Open in Maps</a></p>
 						</div>
 					</div>					
 				</div>
@@ -269,7 +269,7 @@
 									</div>
 								</div>
 							</div>
-							<p><a href="https://goo.gl/maps/185djzUDerJ2" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+							<p><a href="https://goo.gl/maps/185djzUDerJ2" target="_blank" class="btn btn-primary btn-sm">Open in Maps</a></p>
 
 						</div>
 					</div>

@@ -206,7 +206,7 @@
 									</div>
 								</div>
 							</div>
-							<p><a href="https://goo.gl/maps/k9JZ4eix2pw" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+							<p><a href="https://goo.gl/maps/k9JZ4eix2pw" target="_blank" class="btn btn-primary btn-sm">Open in Maps</a></p>
 						</div>
 					</div>					
 				</div>

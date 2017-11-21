@@ -211,7 +211,7 @@
 									</div>
 								</div>
 							</div>
-							<p><a href="https://goo.gl/maps/TAmb4Uyej3m" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+							<p><a href="https://goo.gl/maps/TAmb4Uyej3m" target="_blank" class="btn btn-primary btn-sm">Open in Maps</a></p>
 						</div>
 					</div>					
 				</div>
@@ -229,7 +229,7 @@
 									</div>
 								</div>
 							</div>
-							<p><a href="https://goo.gl/maps/BNpwQ8GFafH2" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+							<p><a href="https://goo.gl/maps/BNpwQ8GFafH2" target="_blank" class="btn btn-primary btn-sm">Open in Maps</a></p>
 						</div>
 					</div>					
 				</div>
@@ -247,7 +247,7 @@
 									</div>
 								</div>
 							</div>
-							<p><a href="https://goo.gl/maps/UZuWdEv7GYC2" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+							<p><a href="https://goo.gl/maps/UZuWdEv7GYC2" target="_blank" class="btn btn-primary btn-sm">Open in Maps</a></p>
 						</div>
 					</div>					
 				</div>
@@ -267,7 +267,7 @@
 									</div>
 								</div>
 							</div>
-							<p><a href="https://goo.gl/maps/baCHJV7fC182" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+							<p><a href="https://goo.gl/maps/baCHJV7fC182" target="_blank" class="btn btn-primary btn-sm">Open in Maps</a></p>
 						</div>
 					</div>	
 				</div>	
@@ -285,7 +285,7 @@
 									</div>
 								</div>
 							</div>
-							<p><a href="https://goo.gl/maps/auAdkdMi3mN2" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+							<p><a href="https://goo.gl/maps/auAdkdMi3mN2" target="_blank" class="btn btn-primary btn-sm">Open in Maps</a></p>
 						</div>
 					</div>
 				</div>		
