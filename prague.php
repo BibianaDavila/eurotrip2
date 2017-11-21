@@ -276,8 +276,16 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-12">
-					<div id="map" class="qbootstrap-map"></div>
+				<div class="col-md-12 text-center animate-box">
+					<div class="wedding-events">
+						<div id="videoDiv" style="background-color: #5a5e61"> 
+							<iframe width="100%" height="400" src="https://www.youtube.com/embed/w_LeYG0rQWc" frameborder="0" allowfullscreen></iframe>
+						</div>
+						<div class="desc">
+							<h3>Architecture</h3>
+							<p><b>Some ideas and opinions about Prague architecture by the view of some tourists.</b></p>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>

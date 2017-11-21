@@ -293,6 +293,41 @@
 		</div>
 	</div>
 
+	<div id="qbootstrap-testimonials" class="qbootstrap-greetings" data-section="greetings" data-stellar-background-ratio="0.5">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-12 section-heading text-center svg-sm colored">
+					<!--<img src="images/flaticon/svg/006-flower-bell-outline-design-variant-with-vines-and-leaves.svg" class="svg" alt="">-->
+					<h2 class="">Our Thoughts</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6 animate-box">
+					<div class="box-testimony ">
+						<blockquote>
+							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
+							<p><b>My thoughts about Berlin: Its easy to know when you are in the East! Public transportation is great, the metro goes everywehre. The Donner is good, and cheap! Food is delicious and super affordable. Beer is 2 Euro. </b></p>
+						</blockquote>
+						<p class="author">Marc Siegel, from Mexico</p>
+					</div>
+					
+				</div>
+				<div class="col-md-6 animate-box">
+					<div class="box-testimony ">
+						<blockquote>
+							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
+							<p><b>I personally loved Berlin and would have no problem living there. The art in the city was my most favorite part, every time you leave your home you have inspiration. </b></p>
+						</blockquote>
+						<p class="author">Lucy Nagle, from USA</p>
+					</div>
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+
 	<div id="qbootstrap-gallery" data-section="gallery">
 		<div class="container">
 			<div class="row animate-box">
