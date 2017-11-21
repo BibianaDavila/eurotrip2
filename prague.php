@@ -307,7 +307,7 @@
 							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
 							<p><b>Prague is a beautiful city with a lot of different architecture styles and you can find a lot of good street artists. One of the best places, for me, was the tower - where you can see the whole city. </b></p>
 						</blockquote>
-						<p class="author">Eleonore Delhaise, from Belgium</p>
+						<p class="author">Eleonore Delhaise, Belgium</p>
 					</div>
 					
 				</div>
@@ -317,7 +317,7 @@
 							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
 							<p><b>Prague is one of the few cities where not only the center is beautiful, but the whole city is amazing and the people are very elegant. Everything is pretty and they have a very nice night life, with good prices. Very pretty population, too!</b></p>
 						</blockquote>
-						<p class="author">Santiago Guerrero, from Mexico</p>
+						<p class="author">Santiago Guerrero, Mexico</p>
 					</div>
 					
 					
@@ -328,7 +328,7 @@
 							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
 							<p><b>Prague is very beautiful city because there are lots of beautiful buildings. Different colors and styles preserved. It was especially good to walk at night seeing the national theater and castle across the river. I like the city because its also cheap, but I was so sorry for citizens who live there since there was so many tourists.</b></p>
 						</blockquote>
-						<p class="author">Hyun Jin, from South Korea</p>
+						<p class="author">Hyun Jin, South Korea</p>
 					</div>					
 				</div>
 			</div>
