@@ -312,6 +312,9 @@
 					<div class="gallery animate-box">
 						<a class="gallery-img image-popup" href="images/pictures/dinnercracow.jpg"><img src="images/pictures/dinnercracow.jpg" class="img-responsive" alt=""></a>
 					</div>
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup" href="images/pictures/23633317_2212059032153815_644045484_o.jpg"><img src="images/pictures/23633317_2212059032153815_644045484_o.jpg" class="img-responsive" alt=""></a>
+					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
 					<div class="gallery animate-box">
@@ -339,6 +342,9 @@
 					<div class="gallery animate-box">
 						<a class="gallery-img image-popup" href="images/pictures/received_1711083275630560.jpg"><img src="images/pictures/received_1711083275630560.jpg" class="img-responsive" alt=""></a>
 					</div>
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup" href="images/pictures/23633330_2212059395487112_424321660_o.jpg"><img src="images/pictures/23633330_2212059395487112_424321660_o.jpg" class="img-responsive" alt=""></a>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -347,6 +353,9 @@
 				<div class="col-md-3 col-sm-6">
 					<div class="gallery animate-box">
 						<a class="gallery-img image-popup image-popup" href="images/pictures/23627371_2212059428820442_881350606_o.jpg"><img src="images/pictures/23627371_2212059428820442_881350606_o.jpg" class="img-responsive" alt=""></a>
+					</div>
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/pictures/IMG_0122_view.jpg"><img src="images/pictures/IMG_0122_view.jpg" class="img-responsive" alt=""></a>
 					</div>
 					<div class="gallery animate-box">
 						<a class="gallery-img image-popup image-popup" href="images/pictures/23698684_2212049295488122_1031862141_o.jpg"><img src="images/pictures/23698684_2212049295488122_1031862141_o.jpg" class="img-responsive" alt=""></a>
