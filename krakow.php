@@ -94,7 +94,7 @@
 					<div class="col-md-12 text-center section-heading svg-sm colored">
 						<img src="images/flaticon/svg/city.jpg" class="svg">
 						<h2>Cracow, Poland</h2>
-						<p><strong>Cracow is the second largest and one of the oldest cities in Poland. It has always been an important city in the nation and it was the central site of the Nazi General Government during WWII.</strong></p>
+						<p><strong>Cracow is the second largest and one of the oldest cities in Poland. It has always been an important city in the country and it was the central site of the Nazi General Government during WWII.</strong></p>
 					</div>
 				</div>
 			</div>
