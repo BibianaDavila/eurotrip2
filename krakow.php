@@ -222,7 +222,7 @@
 						</div>
 						<div class="desc">
 							<h3>Street Art</h3>
-							<p><b>Walking through the city of Cracow it is possible to hear many different types of music, as this video illustrates.</b></p>
+							<p><b>Walking through the city of Cracow we could hear many different types of music, as this video illustrates.</b></p>
 						</div>
 					</div>
 				</div>
