@@ -94,7 +94,7 @@
 					<div class="col-md-12 text-center section-heading svg-sm colored">
 						<img src="images/flaticon/svg/city.jpg" class="svg">
 						<h2>Berlin, Germany</h2>
-						<p><strong>Berlin is a city that remember its own history: it is full of monuments and memorials related to the World War II, the separation of the city that followed the war and, finally, its reunification in the 90s.</strong></p>
+						<p><strong>Berlin is a city that remember its own history: It is full of monuments and memorials related to the World War II, the separation of the city that followed the war and, finally, its reunification in 1990.</strong></p>
 					</div>
 				</div>
 			</div>
