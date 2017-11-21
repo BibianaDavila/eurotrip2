@@ -152,9 +152,21 @@
 							</div>
 						</li>
 						<li class="timeline-inverted animate-box">
-							<div class="timeline-badge" style="background-image:url(images/berlin/28.jpg);"></div>
+							<div class="timeline-badge" style="background-image:url(images/berlin/31.jpg);"></div>
 							<div class="timeline-panel">
 								<div class="overlay overlay-2"></div>
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Checkpoint Charlie</h3>
+								</div>
+								<div class="timeline-body">
+									<p><b>This was the best-known crossing point between East Berlin and West Berlin during the Cold War, after the borders were closed with the Wall.</b></p>
+								</div>
+							</div>
+						</li>
+						<li class="animate-box">
+							<div class="timeline-badge" style="background-image:url(images/berlin/28.jpg);"></div>
+							<div class="timeline-panel">
+								<div class="overlay"></div>
 								<div class="timeline-heading">
 									<h3 class="timeline-title">Olympiastadion</h3>
 								</div>
@@ -164,6 +176,62 @@
 							</div>
 						</li>
 			    	</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="qbootstrap-when-where" data-section="when-where">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2">
+					<div class="row">
+						<div class="col-md-12 text-center section-heading svg-sm colored">
+							<img src="images/flaticon/svg/museum.png" class="svg" alt="">
+							<h2>Art & Museums</h2>
+							<div class="row">
+								<div class="col-md-10 col-md-offset-1 subtext">
+									<h3></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-12 text-center animate-box">
+					<div class="wedding-events">
+						<div class="ceremony-bg" style="background-image: url(images/berlin/30.jpg);"></div>
+						<div class="desc">
+							<h3>Berlin Wall Memorial</h3>
+							<p><b>This is a memorial to the wall that was built during the division of Germany, isolation the West Berlin from the rest of the Deutsche Demokratische Republik (DDR). Inside the memorial, the "Window of Memorial" portrays the 130 people who were shot or died trying to cross the wall.</b></p>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="date">
+										<i class="icon-directions"></i>
+										<span><b>Bernauer Str. 111, 13355 Berlin</b></span>
+									</div>
+								</div>
+							</div>
+							<p><a href="https://goo.gl/maps/TAmb4Uyej3m" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+						</div>
+					</div>					
+				</div>
+				<div class="col-md-6 text-center animate-box">
+					<div class="wedding-events">
+						<div class="ceremony-bg" style="background-image: url(images/berlin/29.jpg);"></div>
+						<div class="desc">
+							<h3>Museum Island</h3>
+							<p><b>This island in the center of Berlin brings together five world-renowned museums: Pergamonmuseum (Pergamon Museum), Bode-Museum, Neues Museum (New Museum), Alte Nationalgalerie (Old National Gallery) and Altes Museum (Old Museum). The Museum Island is a UNESCO World Heritage Site since 1999.</b></p>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="date">
+										<i class="icon-directions"></i>
+										<span><b>Am Lustgarten, 10117, Berlin</b></span>
+									</div>
+								</div>
+							</div>
+							<p><a href="https://goo.gl/maps/UZuWdEv7GYC2" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+						</div>
+					</div>					
 				</div>
 			</div>
 		</div>
