@@ -77,7 +77,7 @@
 							<div class="animate-box svg-sm colored">
 								<!--<img src="images/flaticon/svg/004-nature.svg" class="svg">-->
 								<h1 class="holder"><span><a href="index.php" class="clean">autumn eurotrip</a></span></h1>
-								<h2>Cracow</h2>
+								<h2>CRACOW</h2>
 								<p>31.10.2017 - 02.11.2017</p>
 							</div>
 						</div>
