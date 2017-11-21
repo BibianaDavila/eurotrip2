@@ -217,6 +217,24 @@
 				</div>
 				<div class="col-md-6 text-center animate-box">
 					<div class="wedding-events">
+						<div class="ceremony-bg" style="background-image: url(images/berlin/32.jpg);"></div>
+						<div class="desc">
+							<h3>East Side Gallery</h3>
+							<p><b>Over one kilometre long, the East Side Gallery is constitueted of a part of the Berlin Wall that was preserved. It has paintings all over it by artists from all around the world. The gallery is considered a protected memorial of Germany since 1990, right after the reunification began.</b></p>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="date">
+										<i class="icon-directions"></i>
+										<span><b>Mühlenstraße 3-100, 10243 Berlin</b></span>
+									</div>
+								</div>
+							</div>
+							<p><a href="https://goo.gl/maps/BNpwQ8GFafH2" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+						</div>
+					</div>					
+				</div>
+				<div class="col-md-6 text-center animate-box">
+					<div class="wedding-events">
 						<div class="ceremony-bg" style="background-image: url(images/berlin/29.jpg);"></div>
 						<div class="desc">
 							<h3>Museum Island</h3>
@@ -233,6 +251,44 @@
 						</div>
 					</div>					
 				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6 text-center animate-box">
+					<div class="wedding-events">
+						<div class="ceremony-bg" style="background-image: url(images/berlin/33.jpg);"></div>
+						<div class="desc">
+							<h3>Memorial to the Murdered Jews of Europe</h3>
+							<p><b>Also known as the Holocaust Memorial, this space was designed by Peter Eisenman and opened in 2005. The memorial has an unique atmosphere, creating feelings of lost, confusion and loneliness in the people that walk through it. More than 6 million jews were killed in the Holocaust.</b></p>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="date">
+										<i class="icon-directions"></i>
+										<span><b>Cora-Berliner-Straße 1, 10117 Berlin</b></span>
+									</div>
+								</div>
+							</div>
+							<p><a href="https://goo.gl/maps/baCHJV7fC182" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+						</div>
+					</div>	
+				</div>	
+				<div class="col-md-6 text-center animate-box">
+					<div class="wedding-events">
+						<div class="ceremony-bg" style="background-image: url(images/berlin/34.jpg);"></div>
+						<div class="desc">
+							<h3>Jewish Museum Berlin</h3>
+							<p><b>The Jewish Museum Berlin, opened since 2001, it's dedicated to the two millenia history of jews and about their lifes in Germany. It's permanent exhibition starts in the first chapters of jewish history and goes until the life of jews in Germany after WWII.</b></p>
+							<div class="row">
+								<div class="col-md-12">
+									<div class="date">
+										<i class="icon-directions"></i>
+										<span><b>Lindenstraße 9-14, 10969 Berlin</b></span>
+									</div>
+								</div>
+							</div>
+							<p><a href="https://goo.gl/maps/auAdkdMi3mN2" target="_blank" class="btn btn-primary btn-sm">Open on Maps</a></p>
+						</div>
+					</div>
+				</div>		
 			</div>
 		</div>
 	</div>
