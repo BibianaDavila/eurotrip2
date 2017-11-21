@@ -342,6 +342,34 @@
 				</div>
 			</div>
 		</div>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-3 col-sm-6">
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/pictures/23627371_2212059428820442_881350606_o.jpg"><img src="images/pictures/23627371_2212059428820442_881350606_o.jpg" class="img-responsive" alt=""></a>
+					</div>
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/pictures/23698684_2212049295488122_1031862141_o.jpg"><img src="images/pictures/23698684_2212049295488122_1031862141_o.jpg" class="img-responsive" alt=""></a>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/pictures/IMG_2425.jpg"><img src="images/pictures/IMG_2425.jpg" class="img-responsive" alt=""></a>
+					</div>
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/pictures/23659887_2212059218820463_2113900419_o.jpg"><img src="images/pictures/23659887_2212059218820463_2113900419_o.jpg" class="img-responsive" alt=""></a>
+					</div>
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/pictures/23659891_2212059162153802_1324031497_o.jpg"><img src="images/pictures/23659891_2212059162153802_1324031497_o.jpg" class="img-responsive" alt=""></a>
+					</div>
+				</div>
+				<div class="col-md-6 col-sm-12">
+					<div class="gallery animate-box">
+						<a class="gallery-img image-popup image-popup" href="images/pictures/23659935_2212058958820489_1483095563_o.jpg"><img src="images/pictures/23659935_2212058958820489_1483095563_o.jpg" class="img-responsive" alt=""></a>
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
 
 	<footer id="footer" role="contentinfo">
