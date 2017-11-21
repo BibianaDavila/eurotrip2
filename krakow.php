@@ -6,7 +6,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Kraków ::: Eurotrip | IPC Autumn Term 2017</title>
+	<title>Cracow ::: Eurotrip | IPC Autumn Term 2017</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Template by QBOOTSTRAP.COM" />
 	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
@@ -77,7 +77,7 @@
 							<div class="animate-box svg-sm colored">
 								<!--<img src="images/flaticon/svg/004-nature.svg" class="svg">-->
 								<h1 class="holder"><span><a href="index.php" class="clean">autumn eurotrip</a></span></h1>
-								<h2>KRAKÓW</h2>
+								<h2>Cracow</h2>
 								<p>31.10.2017 - 02.11.2017</p>
 							</div>
 						</div>
@@ -93,8 +93,8 @@
 				<div class="col-md-8 col-md-offset-2 animate-box">
 					<div class="col-md-12 text-center section-heading svg-sm colored">
 						<img src="images/flaticon/svg/city.jpg" class="svg">
-						<h2>Kraków, Poland</h2>
-						<p><strong>Kraków is the second largest and one of the oldest cities in Poland. It has always been an important city in the nation and it was the central site of the Nazi General Government during WWII.</strong></p>
+						<h2>Cracow, Poland</h2>
+						<p><strong>Cracow is the second largest and one of the oldest cities in Poland. It has always been an important city in the nation and it was the central site of the Nazi General Government during WWII.</strong></p>
 					</div>
 				</div>
 			</div>
@@ -131,10 +131,10 @@
 							<div class="timeline-panel">
 								<div class="overlay overlay-2"></div>
 								<div class="timeline-heading">
-									<h3 class="timeline-title">Kraków Old Town</h3>
+									<h3 class="timeline-title">Cracow Old Town</h3>
 								</div>
 								<div class="timeline-body">
-									<p><b>Known in Polish as Stare Miastolso, the Kraków Old Town is also a UNESCO World Heritage Site. This historic center dates to the 11th century and contains one of the largest medieval town square of any European city - the Main Square.</b></p>
+									<p><b>Known in Polish as Stare Miastolso, the Cracow Old Town is also a UNESCO World Heritage Site. This historic center dates to the 11th century and contains one of the largest medieval town square of any European city - the Main Square.</b></p>
 								</div>
 							</div>
 						</li>
@@ -157,7 +157,7 @@
 					<div class="box-testimony ">
 						<blockquote>
 							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
-							<p><b>Well, Poland look exactly like I imagined: poor, old and sort of like in all the nazi/war movies that we watched in school. But Kraków is a very beautiful city, it doesn`t look like the rest of the country. In some parts, however, you can see the city still has the traces of communist regimes. The river is also nice, water is always good in a city.</b></p>
+							<p><b>Well, Poland look exactly like I imagined: poor, old and sort of like in all the nazi/war movies that we watched in school. But Cracow is a very beautiful city, it doesn`t look like the rest of the country. In some parts, however, you can see the city still has the traces of communist regimes. The river is also nice, water is always good in a city.</b></p>
 						</blockquote>
 						<p class="author">Paula Maria Rieß, from Germany.</p>
 					</div>
@@ -167,7 +167,7 @@
 					<div class="box-testimony ">
 						<blockquote>
 							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
-							<p><b>I had a great time in Kraków. The breakfast was the best cause they have pancakes! </b></p>
+							<p><b>I had a great time in Cracow. The breakfast was the best cause they have pancakes! </b></p>
 						</blockquote>
 						<p class="author">Rebecca Argus, from Brazil.</p>
 					</div>
@@ -197,7 +197,7 @@
 						<div class="ceremony-bg" style="background-image: url(images/krakow/aushwitz/1.jpg);"></div>
 						<div class="desc">
 							<h3>Auschwitz-Birkenau Memorial and Museum</h3>
-							<p><b>The former German Nazi Concentration and Extermination Camp is preserved since 1947 as a Memorial and Museum dedicated to show the history of the systematic murder of more than 1.1 million people during the World War II, with the main objective being to prevent that something similar ever happens again. The memorial is separeted in two parts, Auschwitz and Birkenau, and the guides help the visitors to full understand the history of this place. <br/> The camp is located in the city of Oświęcim, one hour away from Kraków.</b></p>
+							<p><b>The former German Nazi Concentration and Extermination Camp is preserved since 1947 as a Memorial and Museum dedicated to show the history of the systematic murder of more than 1.1 million people during the World War II, with the main objective being to prevent that something similar ever happens again. The memorial is separeted in two parts, Auschwitz and Birkenau, and the guides help the visitors to full understand the history of this place. <br/> The camp is located in the city of Oświęcim, one hour away from Cracow.</b></p>
 							<div class="row">
 								<div class="col-md-12">
 									<div class="date">
@@ -222,7 +222,7 @@
 						</div>
 						<div class="desc">
 							<h3>Street Art</h3>
-							<p><b>Walking through the city of Kraków it is possible to hear many different types of music, as this video illustrates.</b></p>
+							<p><b>Walking through the city of Cracow it is possible to hear many different types of music, as this video illustrates.</b></p>
 						</div>
 					</div>
 				</div>

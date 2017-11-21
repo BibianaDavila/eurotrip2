@@ -92,7 +92,7 @@
 					<div class="col-md-12 text-center section-heading svg-sm colored">
 						<img src="images/flaticon/svg/city.jpg" class="svg">
 						<h2>Three Cities, Twelve Days</h2>
-						<p><strong>After one day of preparation at IPC, we left on October 31st from Copenhagen to Kraków. After that, we went from Poland to Czech Republic, to the city of Prague. Our last stop was Berlin, the capital city of Germany.</strong></p>
+						<p><strong>After one day of preparation at IPC, we left on October 31st from Copenhagen to Cracow. After that, we went from Poland to the Czech Republic, to the city of Prague. Our last stop was Berlin, the capital city of Germany.</strong></p>
 					</div>
 				</div>
 			</div>
@@ -161,7 +161,7 @@
 									<span class="date">October 30, 2017</span>
 								</div>
 								<div class="timeline-body">
-									<p>On Monday we organized our projects to the trip and learned about the last details.</p>
+									<p>On Monday we organized our projects for the trip and learned about the last details.</p>
 								</div>
 							</div>
 						</li>
@@ -170,11 +170,11 @@
 							<div class="timeline-panel">
 								<div class="overlay overlay-2"></div>
 								<div class="timeline-heading">
-									<h3 class="timeline-title">Kraków</h3>
+									<h3 class="timeline-title">Cracow</h3>
 									<span class="date">October 31, 2017</span>
 								</div>
 								<div class="timeline-body">
-									<p>We walked through the city and went to the Wawel Castle. Also during our stay at Poland, we went to the Auschwitz-Birkenau Memorial and Museum. <a href="krakow.php">Read more.</a></p>
+									<p>We walked through the city and went to the Wawel Castle. Also during our stay in Poland, we went to the Auschwitz-Birkenau Memorial and Museum. <a href="krakow.php">Read more.</a></p>
 								</div>
 							</div>
 						</li>
