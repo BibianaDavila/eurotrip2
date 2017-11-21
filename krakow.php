@@ -122,7 +122,7 @@
 									<h3 class="timeline-title">Wawel Castle</h3>
 								</div>
 								<div class="timeline-body">
-									<p><b>Considered one of the most important collection of buildings in Poland, the Wawel Castle dates back to the 14th century and since 1978 it is a UNESCO World Heritage Site. The castle is a mix of Romanesque, Renaissance and Gothic architecture.</b></p>
+									<p><b>Considered one of the most important collections of buildings in Poland, the Wawel Castle dates back to the 14th century and since 1978 it has been a UNESCO World Heritage Site. The castle is a mix of Romanesque, Renaissance and Gothic architectures.</b></p>
 								</div>
 							</div>
 						</li>
@@ -134,7 +134,7 @@
 									<h3 class="timeline-title">Cracow Old Town</h3>
 								</div>
 								<div class="timeline-body">
-									<p><b>Known in Polish as Stare Miastolso, the Cracow Old Town is also a UNESCO World Heritage Site. This historic center dates to the 11th century and contains one of the largest medieval town square of any European city - the Main Square.</b></p>
+									<p><b>Known in Polish as Stare Miasto, the Cracow Old Town is also a UNESCO World Heritage Site. This historic center dates to the 11th century and contains one of the largest medieval town squares in Europe - the Main Square.</b></p>
 								</div>
 							</div>
 						</li>
