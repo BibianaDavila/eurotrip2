@@ -260,7 +260,7 @@
 						</div>
 						<div class="desc">
 							<h3>Statue of Franz Kafka</h3>
-							<p><b>This is the sculpture of Franz Kafka's head, made by the Czech artist David Cerny. It's the combination of 42 independently driven layers of stainless steel and weighs about 45 tons.</b></p>
+							<p><b>This is the sculpture of Franz Kafka's head, made by the Czech artist David Černý. It's a combination of 42 independently driven layers of stainless steel and weighs about 45 tons.</b></p>
 							<div class="row">
 								<div class="col-md-12">
 									<div class="date">
