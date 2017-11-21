@@ -157,9 +157,9 @@
 					<div class="box-testimony ">
 						<blockquote>
 							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
-							<p><b>Well, Poland look exactly like I imagined: poor, old and sort of like in all the nazi/war movies that we watched in school. But Cracow is a very beautiful city, it doesn`t look like the rest of the country. In some parts, however, you can see the city still has the traces of communist regimes. The river is also nice, water is always good in a city.</b></p>
+							<p><b>Well, Poland looked exactly like I imagined: poor, old and sort of like in all the nazi/war movies that we watched in school. But Cracow is a very beautiful city, it doesn`t look like the rest of the country. In some parts, however, you can see the city still has the traces of the communist regime. The river is also nice, water is always good in a city.</b></p>
 						</blockquote>
-						<p class="author">Paula Maria Rieß, from Germany.</p>
+						<p class="author">Paula Maria Rieß, Germany.</p>
 					</div>
 					
 				</div>
@@ -169,7 +169,7 @@
 							<span class="quote"><span><i class="icon-quote-left"></i></span></span>
 							<p><b>I had a great time in Cracow. The breakfast was the best cause they have pancakes! </b></p>
 						</blockquote>
-						<p class="author">Rebecca Argus, from Brazil.</p>
+						<p class="author">Rebecca Argus, Brazil.</p>
 					</div>
 				</div>
 			</div>
