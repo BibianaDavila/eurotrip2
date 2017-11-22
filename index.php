@@ -246,7 +246,7 @@
 					<h4>Gabriel Tassin</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
-					<img src="images\pictures\hina.jpg">
+					<img src="images\pictures\hina.JPG">
 					<h4>Hinano Aoyagi</h4>
 				</div>
 			</div>
@@ -260,11 +260,11 @@
 					<h4>Jay Soull Tew</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
-					<img src="images\pictures\jiny.jpg">
+					<img src="images\pictures\jiny.JPG">
 					<h4>Jiyeon Jiny Kim</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
-					<img src="images\pictures\laura.jpg">
+					<img src="images\pictures\laura.JPG">
 					<h4>Laura Cassiani</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
@@ -304,7 +304,7 @@
 					<h4>Thuy Luu</h4>
 				</div>		
 				<div class="col-md-2 col-xs-6 students-ipc">
-					<img src="images\pictures\thoa.jpg">
+					<img src="images\pictures\thoa.JPG">
 					<h4>Tran Thi Kim Thoa</h4>
 				</div>	
 			</div>
