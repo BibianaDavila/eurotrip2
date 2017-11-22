@@ -216,7 +216,7 @@
 					<h4>Antonia Sánchez</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
-					<img src="images\pictures\april.jpg">
+					<img src="images\pictures\april.JPG">
 					<h4>April Stewart</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
@@ -224,7 +224,7 @@
 					<h4>Ayano Yamanaka</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
-					<img src="images\pictures\cris.jpg">
+					<img src="images\pictures\cris.JPG">
 					<h4>Cristobal Rubio</h4>
 				</div>
 			</div>
@@ -242,7 +242,7 @@
 					<h4>Eliška Sattlerová</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
-					<img src="images\pictures\gabriel.jpg">
+					<img src="images\pictures\gabriel.JPG">
 					<h4>Gabriel Tassin</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
