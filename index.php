@@ -282,7 +282,7 @@
 					<h4>Matilde-Luna Perotti</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
-					<img src="images\pictures\noriko.jpg">
+					<img src="images\pictures\noriko.JPG">
 					<h4>Noriko Morikawa</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
@@ -296,11 +296,11 @@
 			</div>
 			<div class="row">
 				<div class="col-md-2 col-xs-6 col-xs-offset-0 col-md-offset-3 students-ipc">
-					<img src="images\pictures\jin.jpg">
+					<img src="images\pictures\jin.JPG">
 					<h4>Seungjin Yoo</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
-					<img src="images\pictures\thuy.jpg">
+					<img src="images\pictures\thuy.JPG">
 					<h4>Thuy Luu</h4>
 				</div>		
 				<div class="col-md-2 col-xs-6 students-ipc">
@@ -314,7 +314,7 @@
 					<h4>Vincent Heda</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
-					<img src="images\pictures\yuki.jpg">
+					<img src="images\pictures\yuki.JPG">
 					<h4>Yuki Nishimura</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
