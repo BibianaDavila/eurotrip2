@@ -180,7 +180,7 @@
 					<h4>Pernille Grage</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
-					<img src="images\pictures\rebecca.jpg">
+					<img src="images\pictures\rebecca.JPG">
 					<h4>Rebecca Machado</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
@@ -188,7 +188,7 @@
 					<h4>Santiago Guerrero</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
-					<img src="images\pictures\tania.jpg">
+					<img src="images\pictures\tania.JPG">
 					<h4>Tanja Dís Magnúsdóttir</h4>
 				</div>
 
@@ -290,20 +290,26 @@
 					<h4>Pien Bennen</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
-					<img src="images\pictures\jin.jpg">
-					<h4>Seungjin Yoo</h4>
+					<img src="images\pictures\rachel.JPG">
+					<h4>Rachel Garzarelli</h4>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-2 col-xs-6 col-xs-offset-0 col-md-offset-1 students-ipc">
+				<div class="col-md-2 col-xs-6 col-xs-offset-0 col-md-offset-3 students-ipc">
+					<img src="images\pictures\jin.jpg">
+					<h4>Seungjin Yoo</h4>
+				</div>
+				<div class="col-md-2 col-xs-6 students-ipc">
 					<img src="images\pictures\thuy.jpg">
 					<h4>Thuy Luu</h4>
 				</div>		
 				<div class="col-md-2 col-xs-6 students-ipc">
 					<img src="images\pictures\thoa.jpg">
 					<h4>Tran Thi Kim Thoa</h4>
-				</div>			
-				<div class="col-md-2 col-xs-6 students-ipc">
+				</div>	
+			</div>
+			<div class="row">
+				<div class="col-md-2 col-xs-6 col-xs-offset-0 col-md-offset-3 students-ipc">
 					<img src="images\pictures\vincent.jpg">
 					<h4>Vincent Heda</h4>
 				</div>
