@@ -401,6 +401,16 @@
 		</div>
 	</div>
 
+	<div id="qbootstrap-testimonials" class="qbootstrap-greetings" data-section="greetings" data-stellar-background-ratio="0.5">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-12 section-heading text-center svg-sm colored">
+					<a href="index.php#qbootstrap-story"><h2 class=""><i class="icon-arrow-left-circle"></i> GO BACK!</h2></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	
 	<footer id="footer" role="contentinfo">
 		<div class="container">
 			<div class="row row-bottom-padded-sm">
