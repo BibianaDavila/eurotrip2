@@ -152,17 +152,17 @@
 		</div>
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-md-2 col-xs-6 col-xs-offset-0 col-md-offset-1 students-ipc">
+				<div class="col-md-2 col-xs-12 col-xs-offset-0 col-md-offset-1 students-ipc">
+					<img src="images\pictures\erick.jpg">
+					<h4>Erik Martin</h4>
+				</div>
+				<div class="col-md-2 col-xs-6 students-ipc">
 					<img src="images\pictures\aaron.jpg">
 					<h4>Aaron Wells</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
 					<img src="images\pictures\bibiana.jpg">
 					<h4>Bibiana Davila</h4>
-				</div>
-				<div class="col-md-2 col-xs-6 students-ipc">
-					<img src="images\pictures\erick.jpg">
-					<h4>Erik Martin</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
 					<img src="images\pictures\marc.jpg">
@@ -207,123 +207,123 @@
 		</div>
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-md-2 col-xs-6 col-xs-offset-0 col-md-offset-2 students-ipc">
+				<div class="col-md-2 col-xs-3 col-xs-offset-0 col-md-offset-2 students-ipc">
 					<img src="images\pictures\aidam.jpg">
 					<h4>Aidan Saunders</h4>
 				</div>
-				<div class="col-md-2 col-xs-6 students-ipc">
+				<div class="col-md-2 col-xs-3 students-ipc">
 					<img src="images\pictures\antonia.jpg">
 					<h4>Antonia Sánchez</h4>
 				</div>
-				<div class="col-md-2 col-xs-6 students-ipc">
+				<div class="col-md-2 col-xs-3 students-ipc">
 					<img src="images\pictures\april.JPG">
 					<h4>April Stewart</h4>
 				</div>
-				<div class="col-md-2 col-xs-6 students-ipc">
+				<div class="col-md-2 col-xs-3 students-ipc">
 					<img src="images\pictures\ayano.jpg">
 					<h4>Ayano Yamanaka</h4>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-2 col-xs-6 col-xs-offset-0 col-md-offset-2 students-ipc">
+				<div class="col-md-2 col-xs-3 col-xs-offset-0 col-md-offset-2 students-ipc">
 					<img src="images\pictures\cris.JPG">
 					<h4>Cristobal Rubio</h4>
 				</div>
-				<div class="col-md-2 col-xs-6 students-ipc">			
+				<div class="col-md-2 col-xs-3 students-ipc">			
 					<img src="images\pictures\diego.jpg">
 					<h4>Diego Domenge</h4>
 				</div>
-				<div class="col-md-2 col-xs-6 students-ipc">
+				<div class="col-md-2 col-xs-3 students-ipc">
 					<img src="images\pictures\eleonore.jpg">
 					<h4>Eleonore Delhaise</h4>
 				</div>
-				<div class="col-md-2 col-xs-6 students-ipc">
+				<div class="col-md-2 col-xs-3 students-ipc">
 					<img src="images\pictures\eli.jpg">
 					<h4>Eliška Sattlerová</h4>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-2 col-xs-6 col-xs-offset-0 col-md-offset-2 students-ipc">
+				<div class="col-md-2 col-xs-3 col-xs-offset-0 col-md-offset-2 students-ipc">
 					<img src="images\pictures\gabriel.JPG">
 					<h4>Gabriel Tassin</h4>
 				</div>
-				<div class="col-md-2 col-xs-6 students-ipc">
+				<div class="col-md-2 col-xs-3 students-ipc">
 					<img src="images\pictures\hina.JPG">
 					<h4>Hinano Aoyagi</h4>
 				</div>
-				<div class="col-md-2 col-xs-6 students-ipc">
+				<div class="col-md-2 col-xs-3 students-ipc">
 					<img src="images\pictures\grace.jpg">
 					<h4>Hyun Jin Hwang</h4>
 				</div>
-				<div class="col-md-2 col-xs-6 students-ipc">
+				<div class="col-md-2 col-xs-3 students-ipc">
 					<img src="images\pictures\jay.jpg">
 					<h4>Jay Soull Tew</h4>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-2 col-xs-6 col-xs-offset-0 col-md-offset-2 students-ipc">
+				<div class="col-md-2 col-xs-3 col-xs-offset-0 col-md-offset-2 students-ipc">
 					<img src="images\pictures\jiny.JPG">
 					<h4>Jiyeon Jiny Kim</h4>
 				</div>
-				<div class="col-md-2 col-xs-6 students-ipc">
+				<div class="col-md-2 col-xs-3 students-ipc">
 					<img src="images\pictures\laura.JPG">
 					<h4>Laura Cassiani</h4>
 				</div>
-				<div class="col-md-2 col-xs-6 students-ipc">
+				<div class="col-md-2 col-xs-3 students-ipc">
 					<img src="images\pictures\lucy.jpg">
 					<h4>Lucy Nagle</h4>
 				</div>
-				<div class="col-md-2 col-xs-6 students-ipc">
+				<div class="col-md-2 col-xs-3 students-ipc">
 					<img src="images\pictures\mariana.jpg">
 					<h4>Mariana Fernandez</h4>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-2 col-xs-6 col-xs-offset-0 col-md-offset-2 students-ipc">				
+				<div class="col-md-2 col-xs-3 col-xs-offset-0 col-md-offset-2 students-ipc">				
 					<img src="images\pictures\matilde.jpg">
 					<h4>Matilde-Luna Perotti</h4>
 				</div>
-				<div class="col-md-2 col-xs-6 students-ipc">
+				<div class="col-md-2 col-xs-3 students-ipc">
 					<img src="images\pictures\noriko.JPG">
 					<h4>Noriko Morikawa</h4>
 				</div>
-				<div class="col-md-2 col-xs-6 students-ipc">
+				<div class="col-md-2 col-xs-3 students-ipc">
 					<img src="images\pictures\pien.jpg">
 					<h4>Pien Bennen</h4>
 				</div>
-				<div class="col-md-2 col-xs-6 students-ipc">
+				<div class="col-md-2 col-xs-3 students-ipc">
 					<img src="images\pictures\ahn.JPG">
 					<h4>Phuong Anh</h4>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-2 col-xs-6 col-xs-offset-0 col-md-offset-2 students-ipc">
+				<div class="col-md-2 col-xs-3 col-xs-offset-0 col-md-offset-2 students-ipc">
 					<img src="images\pictures\rachel.JPG">
 					<h4>Rachel Garzarelli</h4>
 				</div>
-				<div class="col-md-2 col-xs-6 students-ipc">
+				<div class="col-md-2 col-xs-3 students-ipc">
 					<img src="images\pictures\jin.JPG">
 					<h4>Seungjin Yoo</h4>
 				</div>
-				<div class="col-md-2 col-xs-6 students-ipc">
+				<div class="col-md-2 col-xs-3 students-ipc">
 					<img src="images\pictures\thuy.JPG">
 					<h4>Thuy Luu</h4>
 				</div>		
-				<div class="col-md-2 col-xs-6 students-ipc">
+				<div class="col-md-2 col-xs-3 students-ipc">
 					<img src="images\pictures\thoa.JPG">
 					<h4>Tran Thi Kim Thoa</h4>
 				</div>	
 			</div>
 			<div class="row">
-				<div class="col-md-2 col-xs-6 col-xs-offset-0 col-md-offset-3 students-ipc">
+				<div class="col-md-2 col-xs-3 col-xs-offset-0 col-md-offset-3 students-ipc">
 					<img src="images\pictures\vincent.jpg">
 					<h4>Vincent Heda</h4>
 				</div>
-				<div class="col-md-2 col-xs-6 students-ipc">			
+				<div class="col-md-2 col-xs-3 students-ipc">			
 					<img src="images\pictures\yuki.JPG">
 					<h4>Yuki Nishimura</h4>
 				</div>
-				<div class="col-md-2 col-xs-6 students-ipc">
+				<div class="col-md-2 col-xs-3 students-ipc">
 					<img src="images\pictures\yuka.jpg">
 					<h4>Yuka Tamura</h4>
 				</div>
