@@ -169,7 +169,7 @@
 					<h4>Marc Siegel</h4>
 				</div>
 				<div class="col-md-2 col-xs-6 students-ipc">
-					<img src="images\pictures\paula.jpg">
+					<img src="images\pictures\paula.jpg" id="joke" onClick="document.getElementById('joke').src='joke.jpg'">
 					<h4>Paula Maria Rieß</h4>
 				</div>
 				
