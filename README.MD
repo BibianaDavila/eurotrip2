@@ -1,3 +1,6 @@
+Project developed by Bibiana C. Davila, based on the Wedding Free HTML5 Bootstrap Template for Wedding Website.
+International People's College, Denmark, 2017.
+
 
 TITLE: 
 Wedding Free HTML5 Bootstrap Template for Wedding Website
